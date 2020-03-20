@@ -1,0 +1,10 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:e0483ee5-e61c-4a00-a196-64962be71a4d> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Toxic water crisis draws federal investigation 04:49
+In an interview with the National Journal, the Republican governor said critics calling the crisis his "Katrina," referring to then-President George W. Bush's handling of Hurricane Katrina, is not unfair.
+"It's a disaster," he reportedly said.
+"It's clearly a negative on what we've accomplished since I've been governor. And I don't even describe it as an opportunity. I just want to make sure we're doing whatever we can to deal with the damage and address the people of Flint in a constructive way."
+5 things to know about Flint's water crisis
+Read More
+In April 2014, the state decided to temporarily switch Flint's water source from Lake Huron to the Flint River as a cost-saving measure until a new supply line to Lake Huron was ready. The river had a reputation for nastiness, and after the April 2014 switch, residents complained their water looked, smelled and tasted funny.
+Virginia Tech researchers found the water was highly corrosive. A class-action lawsuit alleges the state Department of Environmental Quality didn't treat the water for corrosion, in accordance with federal law, and because so many service lines to Flint are made of lead, the noxious element leached into the water of the city's homes.
+The city switched back to the Lake Huron water supply in October, but the damage was already done to the lead pipes. The state is now handing out filters and bottled water with the hlep of the National Guard.
+JUST WATCHED>>

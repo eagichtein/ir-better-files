@@ -1,0 +1,30 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:e9e7a445-4f6b-4ac8-9f2e-8e3fa2c40eac> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:December 16, 1978
+Here is the test of President Carter's nationally broadcast speech .
+Good evening. I would like to read a joint communique which is being simultaneously issued in Peking at this moment by the leaders of the People's Republic of China:
+"Joint communique on the establishment of diplomatic relations between the United States of America and the People's Republic of China-Jan. 1, 1979.
+"The United States of America and the People's Republic of China have agreed to recognize each other and to establish diplomatic relations as of Jan. 1, 1979.
+"The United States of America recognizes the government of the People's Republic of China as the sole legal government of China. Within this context, the people of the United States will maintain cultural, commercial and other unofficial relations with the people of Taiwan.
+"The United States of America and the People's Republic of China reaffirm the principles agreed on by the two sides in the Shanghai communique and emphasize that once again:
+"Both wish to reduce the danger of international military conflict.
+"Neither should seek hegemony in the Asia-Pacific or in any other region of the world, and each is opposed to efforts by any other country or group of countries to establish such hegemony.
+"Neither is prepared to negotiate on behalf of any third party or to enter into agreements or understandings with the other directed at other states.
+"The government of the United States of America acknowledges the Chinese position that there is but one China and Taiwan is part of China.
+"Both believe that normalization os Sino-American relations is not only in the interest of the Chinese and American peoples but also contributes to the cause of peace in Asia and the world.
+"The United States of America and the People's Republic of China will exchange ambassadors and establish embassies on March 1, 1979."
+Yesterday, the United States of America and the People's Republic of China reached this final historic agreement.
+On Jan. 1, 1979, our two governments will implement full normalization of diplomatic relations.
+As a nation of gifted people who comprise one-fourth of the population of the earth, China plays an important role in world affairs-a role that can only grow more important in the years ahead.
+We do not undertake this important step for transient tactical or expedient reasons. In recognizing that the government of the People's Republic is the single government of China, we are recognizing simple reality. But far more is involved in this decision than a recognition of reality.
+Before the estrangement of recent decades, the American and Chinese people had a long history of friendship. We have already begun to rebuild some of those previous ties. Now, our rapidly expanding relationship requires the kind of structures that diplomatic relations will make possible.
+The change I am announcing tonight will be of long-term benefit to the peoples of both the United States and China-and, I believe, to all the peoples of the world.
+Normalization-and the expanded commercial and cultural relations it will bring with it - will contribute to the well-being of our own nation, and will enhance stability in Asia.
+These more positive relations with China can beneficially affect the world in which we and our children will live.
+We have already begun to inform our allies and the Congress of the details of our intended action. But I wish also to convey a special message to the people of Taiwan, with whom the Amercian people have had and will have extensive, close and friendly relations.
+As the United States asserted in the Shanghai communique of 1972, we will continue to have an interest in the peaceful resolution of the Taiwan issue.
+I have paid special attention to ensuring that normalization of relations between the United States and the People's Republic will not jeopardize the well-being of the people of Taiwan.
+The people of the United States will maintain our current commercial, cultural and other relations with Taiwan through nongovernmental means. Many other countries are already successfully doing so.
+These decisions and actions open a new and important chapter in world affairs.
+To strengthen and to expedite the benefits of this new relationship between the People's Republic of China and the United States, I am pleased to announce that Vice Premier Teng [Hsiao-ping] has accepted my invitation to visit Washington at the end of January. His visit will give our goveenments the opportunity to consult with each other on global issues and to begin working together to enhance the cause of world peace.
+These events are the result of long and serious negotiations begun by President Nixon in 1972 and continued by President Ford. The results bear witness to the steady, determined bipartisan effort of our own country to build a world in which peace will be the goal and the responsibility of all countries.
+The normalization of relations between the United States and China has no other purpose than this-the advancement of peace.
+It is in this spirit, at this season of peace, that I take special pride in sharing this news with you tonight.>>

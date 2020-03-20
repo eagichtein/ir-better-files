@@ -1,0 +1,8 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:fe14a969-41e1-4674-a7df-d8b923c23625> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:JERUSALEM (Reuters) - Israel plans to deploy a new missile shield known as "Iron Beam" next year which would use a laser to blow up short-range rockets and mortar bombs, a defense industry official said on Sunday.
+The system is designed to deal with threats that fly on too small a trajectory to be engaged efficiently by Iron Dome, the Israeli interceptor credited with an 80 percent success rate against rockets fired by Palestinian militants.
+Both shields are manufactured by state-owned Rafael Advanced Defense Systems Ltd. While Iron Dome launches radar-guided interceptor rockets, Iron Beam's laser will super-heat the warheads of shells with ranges of up to 7 km (4.5 miles).
+Rafael said Iron Dome would be formally unveiled at next month's Singapore Air Show. The Israeli military declined to discuss deployment plans.
+Iron Dome is complemented by Arrow II, an Israeli interceptor designed to shoot down ballistic missiles at atmospheric heights. Israel plans to integrate them with the more powerful rocket interceptors Arrow III and David's Sling, both of which are still in their testing phases.
+The United States has extensively underwritten the projects, seeing them as a means of reassuring its Middle East ally as instability rocks the region.
+The industry official, who asked not to be named, told Reuters Iron Beam would form the "fifth layer" of integrated missile defense.
+(Writing by Dan Williams; Editing by Sonya Hepinstall)>>

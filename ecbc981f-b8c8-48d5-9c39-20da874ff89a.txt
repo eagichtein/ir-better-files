@@ -1,0 +1,23 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:ecbc981f-b8c8-48d5-9c39-20da874ff89a> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Todd Woody Solar mirrors suspended on stamenlike struts at an installation in Davis, Calif.
+In an article in the special Energy section of The New York Times on Wednesday, I write about a developer who wants to sell âgarden plotsâ in a 15-megawatt photovoltaic farm in Davis, Calif., so that residents can go solar without having to cut down trees in the cityâs urban forest to install rooftop arrays.
+While solar power plants seem like a 21st-century phenomenon, the Davis project dates from 1987, when the utility Pacific Gas and Electric built P.V.U.S.A. â Photovoltaics for Utility Scale Applications â- to test various nascent technologies.
+Matt Cheney, a veteran renewable financier in San Francisco and founder of CleanPath Ventures , eventually acquired P.V.U.S.A. and received the cityâs blessing to expand the power plant from around one megawatt to 15 megawatts.
+Last week, I took a took a tour of the solar farm, a veritable outdoor Smithsonian of solar power displaying a dozen photovoltaic technologies. Some have become common sights on rooftops and at power plants while others barely left the laboratory before failing and bear the name of start-ups long gone. ReadÂ moreâ¦
+Nov 17, 2010
+For the Desert Tortoise, a Threat and an Opportunity
+
+Todd Woody Mercy Vaughn, a wildlife biologist, with a desert tortoise on the Ivanpah solar power plant site.
+In an article in The New York Times on Wednesday, I write about how the fortunes of big solar power plants in the desert Southwest can hinge on the way developers handle imperiled wildlife in the path of their projects.
+The protected desert tortoise has become the totemic animal for environmentalists fighting to ensure that the huge solar farms donât eliminate essential habitat for the long-lived reptile and other wildlife, like the bighorn sheep and flat-tailed horned lizard.
+The tortoise has been in decline for decades, and the rampant changing of the desert â including the development of casinos, strip malls and subdivisions, and designation of off-road recreational vehicle areas â took its toll long before construction began late last month on the Ivanpah solar power plant , the first large-scale solar thermal project to be break ground in the United States in 20 years.
+Still, the solar farms will industrialize the desert on an unparalleled scale. The seven projects already licensed in California will cover 42 square miles with immense mirror arrays. ReadÂ moreâ¦
+Oct 29, 2010
+Warp Speed for Risky Solar Ventures
+
+Todd Woody for The New York Times A prototype of the Suncatcher at the Sandia National Laboratories in New Mexico gives a rough idea of the sheer scale of Tesseraâs proposed Calico project in the California desert.
+In an article in Fridayâs paper, I write about the solar thermal power plant building boom now under way in Californiaâs Mojave Desert. The looming expiration of crucial federal financial support for the multibillion-dollar projects, though, could turn the boom to bust.
+But that hasnât deterred California regulators, who on Thursday approved the seventh large-scale solar thermal farm since late August.
+After years of painstaking environmental review, the California Energy Commission has been green-lighting the massive solar power plants at warp speed so developers can break ground before yearâs end and qualify for a government cash grant that covers 30 percent of the cost of construction.
+The latest approval goes to Tessera Solar âs Calico project, to be built in the San Bernardino County desert in Southern California. Originally proposed to generate 850 megawatts -â at peak output, thatâs close to the production of a nuclear power plant -â the project was whittled down to 663.5 megawatts to lessen the impact on wildlife like the desert tortoise and the bighorn sheep. ReadÂ moreâ¦
+About
+How are climate change, scarcer resources, population growth and other challenges reshaping society? From science to business to politics to living , our reporters track the high-stakes pursuit of a greener globe in a dialogue with experts and readers.>>

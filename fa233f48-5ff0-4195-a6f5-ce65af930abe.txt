@@ -1,0 +1,16 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:fa233f48-5ff0-4195-a6f5-ce65af930abe> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Pope fell short in cleaning up finances
+by Mark Thompson Â  @MarkThompsonCNN February 11, 2013: 9:12 AM ET
+Pope Benedict made cleaning up the Vatican's reputation for shady money one of his priorities, beefing up the city-state's laws and hiring a top Swiss financial crime fighter to raise standards to international levels.
+Independent experts say much progress has been made in a short period of time. But the Pope resigns with the Vatican still falling well short of its goal of inclusion on a "white list" of states and embroiled in an embarrassing row with the Bank of Italy.
+In 2010, the Vatican created a supervisory body, the Financial Information Authority (FIA), and drafted a new law to make sure all departments met international standards on money laundering and terrorism financing.
+But a 2012 report by European anti-money laundering group Moneyval found the Vatican still failing to measure up in seven of 16 key areas. Also in 2012, Gotti Tedeschi was removed as head of the Vatican bank, or Institute for Works of Religion as it is formally known.
+In response to the Moneyval report, the Vatican appointed lawyer Rene Bruelhart to head the FIA and lead its push for greater transparency. Bruelhart had previously fulfilled a similar role in Liechtenstein, the principality sandwiched between Switzerland and Austria.
+The Vatican has been trying for years to raise its game and throw off a reputation for murky financial dealings that dates back at least 30 years, to the death in London of Roberto Calvi, known as "God's banker".
+Calvi was found hanging from a bridge and his death has never been fully explained. He was chairman of Banco Ambrosiano, in which the Vatican bank held a small stake.
+Related: Vatican can't take credit card payments
+The Vatican bank serves the 500-or-so inhabitants of the world's smallest state, but also thousands of Catholic charities, religious orders and dioceses around the world. It has some 33,400 accounts. Vatican transactions are conducted in euros.
+Moneyval found the threat of financial crime at the Vatican to be very low. But it said the bank's global reach, high volume of cash transactions and a lack of information about some non-profit organizations could make it a target for money-launderers.
+"Further important issues still need addressing in order to demonstrate that a fully effective regime has been instituted in practice," the report stated.
+The Bank of Italy cited the Moneyval report when it moved to close down credit and debit card payments at Vatican shops and museums at the end of last year, leaving tourists dependent on cash to buy souvenirs and tickets for attractions such as the Sistine Chapel.
+Interviewed by an Italian newspaper shortly after the central bank's action, Bruelhart expressed surprise and said the Vatican had implemented all measures required by the European Union, and in some cases adopted even tougher standards.
+CNNMoney (London) First published February 11, 2013: 9:12 AM ET>>

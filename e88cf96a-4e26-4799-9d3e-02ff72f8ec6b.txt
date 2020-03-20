@@ -1,0 +1,10 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:e88cf96a-4e26-4799-9d3e-02ff72f8ec6b> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Image
+The ABD solar farm in Asheboro, N.C., above. North Carolina is the second-largest generator of solar electricity after California.
+To the Editor:
+Re â Steep Tariffs Threaten Growth of Solar Industry â (front page, Jan. 24):
+The tariff on imported solar panels strikes me as an intentional sabotage of renewable energy in favor of fossil fuels. The tariff will tip the scale in favor of natural gas by making solar installations for utility-scale power less competitive.
+Actual manufacture of solar panels accounts for few American jobs, but President Trump can boast about them while ignoring the loss of far more jobs in the solar power supply chain and installation.
+Like Gov. Andrew Cuomo in New York, Gov. Jerry Brown in California and others, governors must take their own actions to counter Mr. Trumpâs bad energy policies. Solar power sabotage is only the latest.
+STEPHANIE DOBA, BROOKLYN
+A version of this article appears in print on , on Page A18 of the New York edition with the headline: Sabotaging Solar Power. Order Reprints | Todayâs Paper | Subscribe
+Advertisement>>

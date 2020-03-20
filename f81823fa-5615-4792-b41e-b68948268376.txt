@@ -1,0 +1,54 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:f81823fa-5615-4792-b41e-b68948268376> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Image
+Residents in Flint, Mich., including the family of Demetrius Lanier, 3, are using bottled water until their tap water is deemed safe.
+Feb. 11, 2016
+Updated Feb. 17
+During his annual budget address on Feb. 10, Gov. Rick Snyder of Michigan laid out a series of sweeping proposals to help Flint cope with its contaminated water supply.
+He proposed spending $195 million on bottled water, filters, infrastructure, nutritional assistance, education and health care. Above all, he said, he will make Flintâs water safe again.
+âWe must solve the Flint water crisis,â Mr. Snyder, a Republican, said in the State Capitol in Lansing, as protesters chanted in the background.
+But those solutions will not come quickly or easily. Four months after state officials admitted that the water flowing through taps in Flintâs homes had been contaminated with lead and other chemicals since 2014, they are still scrambling to work with local leaders and form a plan to undo the damage.
+Lead can cause long-term health and developmental issues in children, and the effects are irreversible. Here are some of the issues, which will be updated regularly.
+Q. What is Governor Snyderâs plan?
+A. Mr. Snyder has also called for Flintâs lead pipes to be replaced, and has hired an engineering firm to study the cityâs water system and identify where those pipes are located, a process that could take weeks or months.
+Mayor Karen Weaver of Flint, who has called for more funding and a faster timeline, said pipe replacement should start the week of Feb. 21. Ms. Weaver did not appear alongside Governor Snyder at a news conference in Flint on Feb. 17. Shortly before that event, she issued a statement saying, âI may have to go on national TV and crowdsource the funding on the Internetâ if state and federal officials do not provide more money for new pipes.
+Q. Where are the lead pipes?
+A. Flint officials do not know for sure which of the cityâs miles of pipes are made of lead. They believe there are at least 15,000 lead pipes in the city, many of them in older neighborhoods.
+Image
+Mayor Karen Weaver of Flint at a House Democratic Steering and Policy Committee hearing in Washington in February.CreditDrew Angerer for The New York Times
+The pipes began leaching lead into the water supply in 2014, when the Flint River became the primary source of water for the city and officials failed to add corrosion controls to prevent the pipes from eroding.
+But exactly which households and other buildings are served by lead pipes is not fully known. And identifying them has become a project in itself. Researchers and city officials have spent weeks working their way through Flintâs antiquated record-keeping system to locate them.
+That is because for decades, Flint officials relied on handwritten maps with details of houses and pipes â many written in easily smudged pencil â that were kept in file cabinets at a city office.
+Martin M. Kaufman, a professor of earth science at the University of Michigan-Flint, is leading a team that has been trying to make sense of the maps. They have taken 240 maps that have been scanned electronically, stitched them together and are preparing to hand the data over to the city.
+âItâs going to take a lot of planning,â he said. âFinding out where all the lead is is going to be difficult.â
+Q. Why canât they just treat the water?
+A. The source of water in Flint has been switched from the Flint River back to Lake Huron through Detroit, an early step toward addressing the contamination problem. But that alone is not a solution, because the pipes are so deeply corroded that lead is still poisoning the water.
+As recently as two weeks ago, some officials in Flint said they hoped that the pipes could be repaired through a process of recoating their insides with phosphates. If that is successful, they reasoned, lead would no longer leach from the pipes into the water supply. But it takes months for the phosphates to take full effect.
+âWorst-case scenario, six months or longer,â Mark Durno, an engineer for the Environmental Protection Agency, told a television reporter. âItâs really hard to tell. Every case is different. Washington, D.C., from what we understand, recovered in about six months.â
+Q. What are the alternatives?
+A. The consensus in Flint is now in favor of wholesale replacement of the lead service lines, which are pipes that bring drinking water from a water main into a home.
+Image
+About 1,200 workers are involved in the final portion of the Karegnondi Water Authority pipeline to bring water from Lake Huron to communities including Flint.CreditSean Proctor/The Flint Journal-MLive.com, via Associated Press
+âWe have been emotionally traumatized, and we need new pipes,â Karen Weaver, the mayor of Flint, said Tuesday. âThatâs the only way weâre going to be satisfied.â
+George S. Hawkins, the chief executive and general manager of the District of Columbia Water and Sewer Authority, said the âbest and fundamental solutionâ was to remove the affected pipes.
+âI wouldnât want to leave the lead lines in the ground without a program over time to eliminate them,â he said.
+Jim Ananich, a Democratic state senator whose district includes Flint, said that he favored the mayorâs plan to gradually replace every lead service line, while continuing to use phosphates to coat the pipes.
+âItâs an in-between approach,â he said. âThey know that certain ones really need to be replaced. We know we have to do it. We cannot keep pushing these infrastructure problems down the road.â
+Q. Whatâs holding up pipe replacement?
+A. The work to replace the lead pipes throughout the cityâs water distribution system could begin within a month, said Ms. Weaver, who outlined a plan for replacement on Tuesday.
+Homes that have already tested for high levels of lead will be given priority. So will households that include children younger than 6, older adults, pregnant women or people with compromised immune systems.
+But it will not be cheap, and not all of the money can be allocated â a major problem for Flint, which has been in financial straits for years. Ms. Weaver said that replacing all of the pipes could cost $55 million. Mr. Snyderâs budget plan does not include funds for a project of that magnitude. And Congress has been arguing over Flint, with Democrats pushing to allocate $220 million for infrastructure, and Republicans balking at setting a precedent in spending on a human-caused disaster.
+The project in Flint could be completed in a year, with an estimated 32 full-time workers on the task.
+Image
+The Flint River in downtown Flint. Pipes began leaching lead into the water supply in 2014, when the river became the primary source of water for the city and officials failed to add corrosion controls to prevent the pipes from eroding.CreditBrittany Greeson for The New York Times
+Q. What are the risks?
+A. Removal of lead pipes has gone wrong in other cities. In Washington, crews inadvertently created more problems in the 2000s when they replaced only parts of some lead pipes, a process that introduced more lead into the residential water supply.
+Dick Peffley, the general manager for the Lansing Board of Water and Light, which has advised Flint, said it was now possible to avoid such missteps.
+The process for replacing each lead service line in Flint, he said, would probably be similar to the effort in Lansing, Mich., which is nearly finished with a $42 million project to replace 13,500 of its lead lines. That project started in 2004.
+Once a home is identified as having a lead service line, a crew of four to five will arrive to remove it. The workers typically dig two holes: one at the water main in the street, and another between the curb and the sidewalk. They use a cable to remove the old lead pipe, which is often about 50 feet long, and replace it with a copper line. If there are no complications, the job can take about four hours.
+Some older homes might still contain lead in internal plumbing. The use of lead in pipes, fittings and fixtures was outlawed in an amendment to the Safe Water Act that President Obama signed in 2011.
+Q. What do the people of Flint say?
+A. In Lansing, about 650 homes are still scheduled to have their lead pipes replaced. Mr. Peffley said that the water utility used to occasionally receive complaints from residents who did not want their pipes removed. âIf we ran into any resistance, we skipped that house and moved on,â he said. âWe havenât had any resistance since people have read about Flintâs problems.â
+Many Flint residents are eager for the pipe replacement to begin so they can use the water from their taps again and no longer have to rely on bottled water to drink, cook and even bathe.
+Even those who were in denial of the scope of the issue have come around, said Laura Sullivan, a professor of mechanical engineering at Kettering University in Flint and a city resident.
+âThere is an element of the population in Flint that up until very recently was reluctant to admit or even consider that there was a problem,â she said. âThen there are the people who need help most of all, who donât have TVs and are very late to even finding out that thereâs a problem. Theyâre clamoring.â
+A version of this article appears in print on , on Page A13 of the New York edition with the headline: Why It Wonât Be Cheap or Easy to Fix Flintâs Water Crisis. Order Reprints | Todayâs Paper | Subscribe
+Related Coverage>>

@@ -1,0 +1,12 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:db734582-7739-4ca2-ae79-a244578cb0fc> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Thursday, 17 January, 2019 - 06:45
+Israeli soldiers walk next to an Iron Dome anti-missile system positioned near the city of Ashkelon, Israel May 29, 2018 REUTERS/ Ronen Zvulun
+Tel Aviv - Asharq Al-Awsat
+The United States is planning to buy two batteries of the Israeli-made Iron Dome missiles defense system, sources in Tel Aviv have said.
+The US military has asked Congress for $373 million to buy the two batteries and have them delivered by 2020, the sources said Wednesday.
+Washington rarely buy weapons systems from other countries, mostly due to national security considerations but also because the US normally has the technological advantage, Israelâs Ynetnews reported.
+âThe batteries will include 12 launchers, two sensors, two battlement management centers and 240 interceptors,â it said.
+âWhile the Iron Dome batteries are stationed inside Israel's borders to defend its citizens from rockets fired from Gaza, the US plans to station the batteries abroad, to defend its troops in sensitive areas around the globe,â the report added.
+According to Ynet, the US military has for years been looking for a system that could protect its troops from rockets, cruise missiles, drones, mortar shells and other threats on the battlefield.
+âIn the past, the US tried to build interception systems based on American-made air-to-air missilesâAIM-120 AMRAAM and AIM-9 Sidewinderâbut the costs were too high, and these systems failed to meet all of the army's operational needs,â it said.
+âThis led the Americans to decide to acquire the Iron Dome system from Israel,â the report added.
+Related News>>

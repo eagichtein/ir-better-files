@@ -1,0 +1,14 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:ef6a9023-56d0-44be-9136-aaf283647029> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Tourists forced to pay in cash since Bank of Italy suspension
+15 January, 19:28
+Suggerisci ()
+(ANSA) - Vatican City, January 15 - A freeze on credit-card and ATM transactions inside Vatican City since the start of the year has cost the Church 300,000 euros so far, estimates reported Tuesday said.       An investigation by Rome prosecutors into an alleged money-laundering case led to the freeze on January 1, making international headlines and worrying tourists, who have had to pay in cash at the Vatican's museums and shops.
+The Bank of Italy suspended bank-card payments in the Vatican City state over its failure to fully implement international anti-money laundering standards.
+In late December, the central bank denied Deutsche Bank Italy, the Vatican's former provider of electronic payment services, a permit because of the Vatican's shortcomings in financial controls and oversight.
+The apparent tipping point that triggered the action was a Rome prosecutor's investigation of possible money-laundering in 2010 at the Vatican's bank, also known as the Institute for Religious Works (IOR).
+The Holy See has been trying without success to join the 'white list' of states that meet international standards on combating money laundering and the financing of terrorism.
+Last July, the Council of Europe's Moneyval department said in a report that the Holy See had made progress on financial transparency, but added that more reforms were needed.
+Soon after, the Holy See appointed a Swiss expert, Rene' Bruelhart, to work on Anti-Money Laundering and Financing of Terrorism (AML/CFT) activities and strengthen the Holy See's framework to fight financial crimes.
+In the past there have been allegations that the IOR was used to launder money, most notably by 'God's Banker' Roberto Calvi, whose body was found hanging under Blackfriar's Bridge in London in 1982, a suspected victim of the Mafia.
+IOR was also named in kickbacks probes stemming from the 1990 collapse of public-private chemicals colossus Enimont, part of the Clean Hands investigations that swept away Italy's old political establishment.
+More recently, there has been a series of Italian TV reports and a best-selling book claiming to show how individuals have used IOR to squirrel away money, dodging Italian regulations.
+Losses since the freeze went into effect so far amount to nearly 30,000 euros every day.>>

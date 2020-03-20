@@ -1,0 +1,18 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:f78c23cd-e96b-4acd-b105-d4f9a3d818de> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:La Paz, Apr 30 (Prensa Latina) The National Electricity Enterprise concluded the assembly of the solar power plant of Uyuni, in Potosi, which will generate 60 megawatts, informed today Bolivian Minister of Energies, Rafael AlarcÃ³n.
+The Minister recalled the construction will demand 62 million dollars financed by the Central Bank of Bolivia.
+The photovoltaic project is located some 15 kilometers southeast of the city of Uyuni and has the purpose of increasing power generation to the National Interconnected System, he added.
+'Our solar park in Uyuni of 60 megawatts is ready, we are in the final tests and waiting the inaugural date in charge of our president (Evo Morales), declared Alarcon.
+The Uyuni solar plant will be the biggest to be put in operation in the country, taking into account the one in Yunchara, in Tarija, with an initial power of five megawatts and that of Cobija, in Pando, of the same capacity.
+The minister referred the country works to become the energy center of South America.
+He stressed that only in the hydroelectric sector, Bolivia's potential is enormous. as it reaches 40 thousand megawatts, he asserted.
+ef/mem/lbp/gdc Â 
+Temas Relacionados:
+
+La Paz, Apr 30 (Prensa Latina) The National Electricity Enterprise concluded the assembly of the solar power plant of Uyuni, in Potosi, which will generate 60 megawatts, informed today Bolivian Minister of Energies, Rafael AlarcÃ³n.
+The Minister recalled the construction will demand 62 million dollars financed by the Central Bank of Bolivia.
+The photovoltaic project is located some 15 kilometers southeast of the city of Uyuni and has the purpose of increasing power generation to the National Interconnected System, he added.
+'Our solar park in Uyuni of 60 megawatts is ready, we are in the final tests and waiting the inaugural date in charge of our president (Evo Morales), declared Alarcon.
+The Uyuni solar plant will be the biggest to be put in operation in the country, taking into account the one in Yunchara, in Tarija, with an initial power of five megawatts and that of Cobija, in Pando, of the same capacity.
+The minister referred the country works to become the energy center of South America.
+He stressed that only in the hydroelectric sector, Bolivia's potential is enormous. as it reaches 40 thousand megawatts, he asserted.
+ef/mem/lbp/gdc>>
