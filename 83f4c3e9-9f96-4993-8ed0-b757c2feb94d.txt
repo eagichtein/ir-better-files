@@ -1,0 +1,17 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:83f4c3e9-9f96-4993-8ed0-b757c2feb94d> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Solar power has record year despite bankruptcies
+by Steve Hargreaves Â  @hargreavesCNN March 14, 2013: 12:02 PM ET
+Solar power has record year in 2012, with total U.S. capacity surging 40%, despite persisting bankruptcies.
+It was a record year for solar installations in the United States in 2012, boosting an industry still struggling with consolidation and bankruptcies.
+Over 3.3 gigawatts of solar power were installed last year, according to a report Thursday from the Solar Energy Industries Association, a trade group. That's enough to power about 500,000 homes, and it was a 76% increase from 2011.
+The industry credited the jump to the declining price of solar panels, stable tax incentives and better financing options .
+"We've brought more new solar online in 2012 than in the three prior years combined," SEIA head Rhone Resch said in a statement. "And every one of these panels was bolted down by a member of the U.S. workforce."
+The industry estimates it now employs 119,000 people in the United States -- a 13% jump over last year. It's expecting another record year for solar installations in 2013.
+Related: SolarCity CEO talks the future of solar power
+The price of solar panels has declined 60% since the beginning of 2011, according to SEIA. Lower prices for silicon -- a main ingredient in the panels -- and massive investments in manufacturing capacity, especially by the Chinese , have helped push down prices.
+These price declines have squeezed profit margins for solar panel makers. Several have filed for bankruptcy over the past couple of years, including Solyndra , Abound , Evergreen and Q-Cells.
+Analysts expect more bankruptcies in the years ahead, as prices continue to fall and smaller, less efficient companies get pushed out. The situation is sometimes compared to the dawn of the auto age, when there used to be dozens of carmakers before consolidation led to just the Big Three.
+But falling prices are clearly a boon for consumers and companies that specialize in the sales and instillation of solar panels, such as Solar City ( SCTY ), Sunrun and a host of others.
+Why SolarCity teamed up with Home Depot
+While solar power still represents a small fraction of the nation's overall electricity generation -- under 1% in 2012, according to the engineering and consulting firm Black & Veatch, it's expected to grow substantially over the next couple of decades.
+The cost of solar power is competitive with other energy sources in some U.S. markets, such as California and New Jersey, where subsidies are generous and the price of electricity is high. But if you exclude the big subsides and mandates the industry enjoys, the U.S. Energy Information Administration says the cost for new solar electricity nationwide is still more than twice that of the nation's cheapest power source -- natural gas.
+CNNMoney (New York) First published March 14, 2013: 12:02 PM ET>>

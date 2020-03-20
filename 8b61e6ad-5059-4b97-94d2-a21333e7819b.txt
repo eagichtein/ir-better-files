@@ -1,0 +1,38 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:8b61e6ad-5059-4b97-94d2-a21333e7819b> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:The sun could provide a chunk of our energy needs in the years ahead
+Energy from the sun being trapped in parabolic troughs and dishes
+Giant up and down-draft solar towers still an option in the future
+Next Article in Technology Â»
+By  Matthew Knight for CNN
+LONDON, England (CNN) -- Widespread anxiety about the damaging effects of burning fossil fuels, coupled with a genuine fear that oil and gas will become scarce before the century ends are fueling a renewed interest in renewable energy and, in particular, solar power solutions.
+The PS10 solar tower plant sits at Sanlucar la Mayor outside Seville, Spain. The solar tower plant, the first commercial solar tower in the world, can provide electricity for up to 6,000 homes.
+Not since the 1970's, when the energy crisis forced oil prices through the roof, have solar power solutions been so warmly received.
+Most people associate solar power with shiny black panels -- called photovoltaic cells (PV's) --which nestle on rooftops trapping the heat from the sun and converting it into electricity.
+But sightings of solar panels on suburban streets remain rare, not least because of the prohibitive cost of purchase and installation.
+But there are other ways of capturing the power of the sun which may provide a considerable chunk of our energy needs in the years ahead. Research is increasingly focusing on 'concentrated solar power' systems -- CSP for short.
+CSP systems focus direct solar radiation through optical devices onto an area where a receiver is located -- much like burning a hole in a piece of paper with a magnifying glass. This solar radiation is then converted into electricity.
+In practice, the CPS system comprises of four elements - a solar field, solar collector elements, a solar receiver and a balance of plant (the remaining systems required to operate a power plant).
+A range of concepts literally aimed capturing the sun's energy are currently in operation or being tested.
+Parabolic troughs have been in operation since the mid-1980's. Some of the most notable are the nine power plants built in the Californian desert. Still in operation today, they create 354 MW of energy in total and remain the world's largest collection of concentrating solar power plants.
+In Europe, a number of solar projects are being rolled out. Germany leads the way with over 10 solar power plants. Located in the Tabernas Desert in southern Spain, however, is the Platforma Solar de Almeria -- a solar power research facility where new solar technologies are being tested.
+Don't Miss
+CNN's Planet in PerilÂ 
+Al Gore collects Nobel Peace PrizeÂ 
+One of the concepts being trialed is the 'central tower' configuration which utilizes a collection of heliostats -- mirrors which automatically track sunlight -- which act as solar collectors. The heliostats then concentrate the solar radiation onto a central receiver located at the top of a tower.
+Europe's first commercial concentrated solar power plant was officially opened in Seville, Spain in March 2007. The new Planta Solar 10 (PS10) is the first commercial solar thermoelectric power plant in the world.
+624 large heliostats focus the sun's rays on to a single solar receiver 115 meters high. With temperatures reaching up to 250 degrees Celsius, the solar receiver then turns water into steam, which in turn powers a turbine.
+It has a peak capacity of 11 MW which is enough to generate 23 million kWh of electricity per year. That's enough to power 6,000 homes and save 18,000 tons of carbon emissions every year.
+A second tower, the PS20, is currently under construction and will produce around a peak of around 20 MW of electricity.
+Using troughs, dishes and towers aren't always necessary when creating solar energy. Other more rudimentary methods, first conceived over a quarter of a century ago, are once more the subject of serious consideration.
+Once such idea is the 'Energy Tower'. If the project ever becomes financially viable it will create some of the tallest structures on earth, dwarfing even the new 800 meter Burj Dubai tower in the United Arab Emirates.
+Originally patented as the 'Water Spray Down Draft Energy Tower' by Dr Philip Carlson in 1975, the project has, since 1982, been researched and promoted by Professor Dan Zaslavsky from Technion, the Israel Institute of Technology in Haifa.
+The 'Energy Tower' produces electricity by pumping water up to the top of a chimney and then spraying it inside. As a consequence the hot air at the top of the chimney makes the water evaporate, thus cooling the air and making it denser. This cooler air then falls down the chimney shaft causing a downdraft which is used to power turbines.
+Dr Rami Guetta, Project Manager of Sharav Sluices Ltd -- the company founded by Professor Zaslavsky to promote the system -- told CNN that there has been a lot of interest from Australia and the United States, although no contracts have been signed yet.
+"We need about 18 months to three years to do a feasibility study, to work out the financial costs and to assess the output of the tower in an accurate way," he told CNN.
+Depending on the site -- which must be in a hot, dry climate and relatively near to water sources -- the tower's height would range from at a minimum of 600 meters to a sky-scraping 1200 meters.
+"It is a project that would work in about 40 countries," Dr Guetta said. "But generally speaking, the project would work 15-20 degrees north or south of the equator. But you can supply other countries by long distance power lines."
+A similar idea, the solar updraft tower, also borrows from a project of yesteryear. The Solar Tower -- proposed by both Australian based firm EnviroMission and a U.S. company SolarMission Technologies -- is a direct descendant of a 1982 Spanish prototype.
+The construction of a 190 meter tower surrounded by collectors (clear plastic canopy which traps warm air) in Manzanares, Ciudad Real, Spain was the brainchild of German engineer Jorg Schlaich. The plant successfully operated for seven years until 1989 and generated 50 kW of power.
+Like the 'Energy Tower', the Solar Tower, uses air to drive turbines and requires a hot climate to be feasible. But instead of creating descending cold air it uses hot air from the collectors and diverts that up the chimney.
+In order for the plan to be viable the towers need to rise to around 1000 meters, which, according to EnviroMission, would generate up to 200 MW of power for 200,000 homes.
+Critics of the solar tower project claim that the collectors take up too much land (up to 3 kilometers in circumference) and that it is too expensive to implement.
+EnviroMission which was formed in 2001 are still hopeful that the project will get the green light in the future.>>

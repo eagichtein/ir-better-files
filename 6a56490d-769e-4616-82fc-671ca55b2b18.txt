@@ -1,0 +1,10 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:6a56490d-769e-4616-82fc-671ca55b2b18> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:US Secretary of State Mike Pompeo said he and North Korean leader Kim Jong Un held in-depth talks about a denuclearization "mechanism"
+More
+The US has an "obligation" to pursue a diplomatic solution with North Korea, and there is a "real opportunity" for progress, Secretary of State Mike Pompeo said in an interview broadcast Sunday.
+"We have an obligation to engage in diplomatic discourse to try and find a peaceful solution so that Americans aren't held at risk by Kim Jong Un and his nuclear arsenal," Pompeo told ABC, saying that there is a "real opportunity" for progress.
+America's top diplomat also said he and North Korean leader Kim Jong Un held in-depth talks about a denuclearization "mechanism" when they met over Easter weekend.
+"We talked a great deal about what it might look like, what this complete, verifiable, irreversible mechanism might look like," Pompeo said.
+South Korean President Moon Jae-in met with Kim in a historic summit, agreeing on Friday to pursue a permanent peace and the complete denuclearization of the Korean peninsula.
+An armistice brought the fighting on the Korean peninsula to an end in 1953, but 65 years later, a final peace agreement has still not been reached.
+The Moon-Kim meeting has raised expectations for US President Donald Trump's own planned summit with the North Korean leader, the date and location of which have not yet been finalized.
+US Secretary of State Mike Pompeo speaks during joint press briefing with the Saudi foreign minister at the Royal airport in the capital Riyadh on April 29, 2018>>

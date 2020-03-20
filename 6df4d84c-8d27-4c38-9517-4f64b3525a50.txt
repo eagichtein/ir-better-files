@@ -1,0 +1,15 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:6df4d84c-8d27-4c38-9517-4f64b3525a50> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Vatican needs to prosecute money launderers
+by Jim Boulden Â  @CNNMoney December 15, 2015: 8:45 AM ET
+It's time the Vatican got serious about money laundering.
+An independent group of European financial experts wants to see "some real results" in terms of indictments and prosecutions at the Vatican Bank.
+The experts have been reviewing the Vatican's attempts to clean up its bank after money laundering scandals rocked the home of the Catholic Church in 2010.
+In a progress report released Tuesday, the experts say the bank must go after those accused of money laundering in order "to deliver effective results in terms of prosecutions, convictions and confiscation."
+While 11 million euros ($12 million) has been frozen, and 29 money laundering investigations launched, no one has been prosecuted or indeed indicted by Vatican authorities for money laundering since new procedures were put in place in 2012.
+In the majority of these cases, investigations are under way in other jurisdictions because they largely involve "offenses committed abroad by non-Vatican citizens," the report stated.
+The alleged offenses include fraud, tax evasion, corruption, bankruptcy, insider trading, and market manipulation.
+Related: Vatican bank makes big profit
+The bank -- whose functions include providing financial advice and services to the Catholic Church -- has been hit by a criminal investigation , executive resignations and international accusations that it wasn't doing enough to prevent money laundering.
+This is the first progress update from Moneyval for two years . The group's experts said the bank has now closed 4,800 accounts, and they praised it for successfully identifying and verifying account holders.
+The bank also reported 329 suspicious activities in the first nine months of 2015, which the experts said showed the bank now had effective procedures in place.
+Their first report, in 2012, found that the threat of financial crime at the Vatican was low. But the bank's global reach, high volume of cash transactions and lack of information about some non-profit organizations could make it a target for money launderers.
+CNNMoney (London) First published December 15, 2015: 7:32 AM ET>>

@@ -1,0 +1,20 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:8af0b51a-cede-4822-941c-5dc32fcc5317> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Michigan governor faces racketeering lawsuit over 
+The lawsuit brought by Flint residents alleges the two-year crisis was the result of âintentionalâ actions by state officials to cut costs amid bankruptcy fears
+Wed 6 Apr 2016 14.04Â EDT
+Last modified on Fri 14 Jul 2017 15.39Â EDT
+Share via Email
+This article is over 2 years old
+âThey wanted to save money,â said an attorney for the case against Michigan state officials and the governor. Photograph: Kevin Lamarque/Reuters
+A federal racketeering lawsuit by hundreds of resident in Flint, Michigan , is alleging the cityâs two-year water crisis was the result of anâintentional schemeâ crafted by state officials and Michiganâs governor, Rick Snyder, to balance the cityâs budget.
+In a press conference announcing the 17-count racketeer influenced and corrupt organizations ( Rico ) complaint on Wednesday, attorneys said the state of Michigan ran Flintâs day-to-day operations through an emergency manager, who prioritized balancing the cityâs budget through a cost-cutting measure: switching Flintâs water source in April 2014 from Lake Huron, which serviced the city for more than 50 years, to a local river.
+'It's affected everybody': Flint children on the frontline of the water crisis
+Read more
+The decision, estimated at the time to save the city between $1m and $2m annually, sparked a cascade of problems for the cash-strapped city, when the state department of environmental quality didnât require the river water to be treated with corrosion control agents, which allowed lead to leach off pipes and flow into households.
+âThey wanted to save money,â said attorney Chet Kern, of New York-based Bern Ripka LLP, which also represented thousands of workers in World Trade Center environmental litigation.
+The potential class-action suit, which names more than 400 plaintiffs, said Michigan had the option to use âtime-tested, well-honedâ federal bankruptcy protections for Flint, rather than appoint an emergency manager with a mandate to balance the books. John Clark, an associate with Bern Ripka, said that decision was driven by state officialsâ fear of succumbing to municipal bankruptcy.
+âBankruptcy seems like a cop-out, and it seems like government is failing,â Clark told the Guardian. âBalancing the budget seems like the governmentâs gaining ground, functioning properly.â To balance the budget, he continued, the city used the Flint river until a new water system was operational, while still charging sky-high water rates for Flint residents.
+âThey were able to create a budget surplus,â Clark said. âEmergency managers, for them, thatâs the best case scenario. They look like theyâre executing flawlessly in their plan. Governor Snyder avoids the headache of Flint going bankrupt.â
+In a Rico statement filed to federal court, the attorneys said state officials, contractors and emergency managers appointed to run Flint had âthe intent and purpose of balancing the Flint City budget through a pattern of racketeering activity.â
+âThis association â¦ misrepresented the suitability of the toxic Flint River water to Flintâs residents for approximately a two-year period, and billed Flintâs residents at rates that were the highest in the nation for toxic water that was unsuitable for use,â the lawsuit stated.
+Bankruptcy seems like a cop-out â¦ Balancing the budget seems like the government'âs gaining ground
+âBy collecting an estimated $50m in revenue during the two year period Flint was connected to the Flint River, Flintâs City budget deficit was reversed and resulted in a $3.3.m surplus as of June 30, 2015.â>>

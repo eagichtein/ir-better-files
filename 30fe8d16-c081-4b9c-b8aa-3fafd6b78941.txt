@@ -1,0 +1,13 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:30fe8d16-c081-4b9c-b8aa-3fafd6b78941> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:16 November 2012
+There has been no let-up in the fighting overnight between Israel and Hamas militants in the Gaza Strip, with both sides launching strikes into the otherâs territory.
+There is speculation over a possible Israeli ground offensive in Gaza: with reports of a build-up of troops near the border.
+Israelâs âPillar of Defenceâ operation is into its third day as it continues to respond to rockets fired by Hamas militants.
+The first 48 hours of airstrikes have left at least 19 Palestinians dead in Gaza. Civilians, including six children, were among those killed.
+However Israeli Prime Minister Benjamin Netanyahu has said that the military offensive will be suspended during the visit to Gaza by Egyptâs prime minister on Friday.
+The exchange of firepower is matched by a war of words. Hamas has warned that Israel will pay dearly for what Prime Minister Ismail Haniyeh called a âferocious assaultâ on the Palestinian territory.
+Israel is authorising the call-up of 30,000 reservists. The Defence Minister Ehud Barak said Hamas would have to pay the price for targeting Tel Aviv.
+The first missile threat on Israelâs commercial capital in 20 years has shaken the country.
+Two Hamas rockets landed in the area after being launched from Gaza 70 kilometres to the south.
+Hamas claims to have fired hundreds: in one town nearer the border three Israeli civilians were killed when their block of flats was hit.
+Israel claims its Iron Dome missile defence system has intercepted over 100 rockets.
+Government spokesmen said Israel was not interested in a ceasefire, but in continuing its offensive until Hamas âbegs for oneâ.>>

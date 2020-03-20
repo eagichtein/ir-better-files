@@ -1,0 +1,33 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:08ef6e45-f7a7-4d71-bafa-7b8b6886d059> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Fixing Flint's contaminated water system could cost $216m, report says
+A bruising litany of infrastructure repairs would happen over the next several decades â with $80m needed to remove about 10,000 lead pipes across the city
+Mon 6 Jun 2016 13.24Â EDT
+Last modified on Fri 14 Jul 2017 15.18Â EDT
+Share via Email
+This article is over 1 year old
+A worker measures a lead main service line in Flint after digging a hole. Itâs still unclear how many lead services line are in the city. Photograph: Rachel Woolf/AP
+The projected cost to repair infrastructure after the city of Flint, Michiganâs two-year water contamination crisis is several magnitudes higher than what has been allocated to fix it, a new state report has found.
+The report lays out a bruising litany of infrastructure fixes to the cityâs water system over the next several decades at an estimated cost of at least $216m. The report suggests $80m is needed to remove about 10,000 lead pipes across the city â more than three times what Michigan governor Rick Snyder has proposed for a forthcoming state budget.
+The report from Flint-based engineering firm Rowe Professional Services calls for the widely supported removal of lead pipes in the city to be completed in eight years. The cityâs mayor, Karen Weaver, has estimated $55m is needed to remove the pipes, and as many as 500 could be removed during an initial phase launched with $2m from the state.
+âIf services are replaced at an average rate of at least 2,000 annually, eight years may be required to complete the replacement program,â the report stated.
+America's water testing problems must and can be fixed, experts say
+Read more
+The finding comes as a new Guardian investigation this month revealed dozens of cities across the US use flawed water testing methods for lead. Of the cities reviewed in the investigation, 21 use water testing methods similar to those that prompted criminal charges to be filed against three government employees for their role in Flintâs water debacle.
+The  began with an April 2014 decision by a state-appointed emergency manager to switch the cityâs water source from Lake Huron water to a local corrosive river. The stateâs environmental agency oversaw the switch and failed to require the use of corrosion control agents, which allowed lead to leach off water pipes and flow into households across the city. The glaring oversight wasnât revealed until last summer.
+State officials have yet to declare unfiltered tap water in the city safe for consumption, and an investigation into the possible connection between the interim water source and a massive outbreak of legionnairesâ disease â including 12 deaths â remains ongoing.
+The projected $216m to fix infrastructure is just one of the litany of costs inherited by federal, state and local agencies in the wake of public health emergencies. Some lawmakers have projected total costs including dissemination of bottled water, lead testing, and health treatment at $1bn. The city and state also face more than $1bn in potential legal liability. A recent state analysis found that monthly water bills for Flint residents â already among the highest in the US â are projected to double over the next several years.
+Last week, Weaver attended a business policy conference on a Michigan island, and urged lawmakers to approve additional funds to address the crisis.
+âThings havenât moved as quickly as weâd like them to, but they are moving,â Weaver said .
+But the report reiterated a problem thatâs yet to be fully resolved: itâs unclear exactly how many lead services line are in the city, which could raise the total cost even further. There are no records for about 9,000 lead and galvanized services, the report estimated, and âadditional costs may be incurred if all galvanized services are to be replacedâ.
+The governorâs office has kept an optimistic view on the situation, however. Snyder aides who are assisting in efforts to address the crisis believe Weaverâs estimate of $55m may be sound.
+Tests on Flint water targeted homes far from network of lead pipes
+Read more
+âI still think that the $55m is a pretty good number and in fact, it may be even less than that,â said Snyder aide Richard Baird in an interview with the Detroit Free Press, which first reported on the Rowe study .
+Beset by decades of economic decline, stemming from the fleeting loss of automotive jobs, the report also said that Flintâs population is expected to continue to decline, which could add further costs, as Flintâs water system is designed to provide service to a city twice its size.
+âA system with excess capacity can result in high water age and the potential for water quality issues,â the report said. âFewer customers result in less revenue available to properly support the maintenance of the cityâs aging and excess infrastructure.â
+Maintaining healthy staff levels has also proved problematic for the Rust Belt city, which the state ran through a succession of emergency managers with near-total control of day-to-day operations from 2011 to 2015.
+As of 2013, 76 positions were budgeted for the cityâs water treatment and service centers, however only 35 have been filled â with only five of 28 positions filled at the water treatment center.
+The findings were compounded by a letter sent from the Environmental Protection Agency (EPA) to Weaver and the Michigan department of environmental quality last week. The letter raised concerns about Flintâs capability to distribute appropriate chlorine levels throughout the system in the coming months.
+âWith the onset of warmer weather, the situation is urgent,â the EPA wrote.
+The letter directed state and local officials to install a temporary chlorine feed at the Flint water treatment plant âas soon as possibleâ, and suggested the city purchase backup chemical feed systems in the event of a failure with current and future operations.
+âLoss of disinfection and loss of phosphate feed may result in adverse water quality reactions that can take place rapidly,â the letter stated.
+Topics>>

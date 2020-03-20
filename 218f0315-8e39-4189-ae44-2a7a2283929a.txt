@@ -1,0 +1,17 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:218f0315-8e39-4189-ae44-2a7a2283929a> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Japan has by far the hardest line of the three countries on North Korea
+More
+East Asian powers on Wednesday threw their weight behind breakneck diplomacy to rid North Korea of nuclear weapons, setting aside their differences on the process to endorse an intra-Korean deal.
+Japan's Prime Minister Shinzo Abe is hosting his Chinese counterpart Li Keqiang and South Korean President Moon Jae-in as preparations for a summit between Washington and Pyongyang heat up.
+On Wednesday, top US diplomat Mike Pompeo was in Pyongyang to prepare for the summit, which builds on talks between the two Koreas and a deal signed in the truce village of Panmunjom last month.
+Moon said the three Asian leaders had agreed to endorse the outcome of the neighbours' talks.
+"We reached the common recognition that the complete denuclearisation of the Korean peninsula, (and) the permanent establishment of peace and development of the intra-Korean relations are crucial," he said in a statement after the trilateral talks.
+"I would like to thank the leaders for welcoming and supporting the Panmunjom declaration," he added -- a position the trio are expected to formalise in a joint statement later Wednesday.
+At the historic Panmunjom summit less than two weeks ago Moon and North Korean leader Kim Jong Un agreed to pursue a permanent peace treaty and also vowed to work towards the "complete denuclearisation" of the divided peninsula.
+But the phrase is a diplomatic euphemism open to interpretation on both sides.
+Pyongyang has long wanted to see an end to the US military presence and nuclear umbrella over the South, but it invaded its neighbour in 1950 and is the only one of the two Koreas to possess nuclear weapons.
+Japan has by far the hardest line of the three countries on North Korea, and has found itself largely watching from the sidelines as the diplomatic frenzy unfolds.
+It has been left uneasy by the pace of events, and by what it sees as an unwarranted softening towards an untrustworthy Pyongyang.
+After the talks, Abe said he hoped to see the international community press "North Korea to take concrete steps towards complete denuclearisation of the Korean peninsula, and peace and stability in northeast Asia".
+He also once again called for a resolution to the hugely emotive issue of Japanese citizens kidnapped by the North.
+"If the issues of abduction and nuclear and missile programmes are comprehensively resolved and if the North Korea follows the right path, we will aim for the normalisation of relations," he said.
+Japan has by far the hardest line of the three countries on North Korea>>

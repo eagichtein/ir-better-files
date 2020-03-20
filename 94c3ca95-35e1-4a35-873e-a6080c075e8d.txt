@@ -1,0 +1,27 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:94c3ca95-35e1-4a35-873e-a6080c075e8d> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:This summer was greenest ever for energy, says National Grid
+Carbon emissions pushed to lowest level yet as first subsidy-free large solar power project opens in the UK
+Mon 25 Sep 2017 19.01Â EDT
+Last modified on Wed 14 Feb 2018 12.36Â EST
+This article is over 8 months old
+Landmead 46MW solar farm near Abingdon, one of the biggest in England. Photograph: Peter Macdiarmid/Getty Images
+The UK has set a new landmark for clean energy after the National Grid announced that the electricity powering the UKâs homes and businesses this summer was the greenest ever.
+The record comes as the first subsidy-free large solar power project opens in the UK, in what the government described as a significant moment for the energy sector.
+Analysis by National Grid of power generation showed that a combination of solar, wind and nuclear â and an absence of coal â pushed carbon emissions to their lowest level yet over the season.
+Between 21 June and 22 September, the carbon intensity of the grid â as measured in grammes of C02 emitted per KWh of power generated â was more than halved from its level over the same period four years ago.
+UK power carbon intensity graph
+This summer, nearly 52% of power came from low-carbon sources, compared with 35% in 2013.
+A growing number of solar and windfarms, coupled with nuclear and gas power stations, have transformed summer power supply and broken new records. On one Friday in May, solar panels even briefly provided more power than the UKâs nuclear fleet .
+Duncan Burt, director of the system operator at National Grid, said: âItâs been a summer of records. The big fundamental shift has been the continuing growth in offshore wind and solar coming on.
+âWeâve gone from renewables being a part of the mix to often being a significant, majority part of the mix.â
+He added that while the group would have liked to have seen some windier, sunnier days in August, it had coped with the challenge of managing intermittent power sources such as wind and expected the trend to continue.
+Pinterest
+Clayhill 10MW solar farm, near Flitwick, Bedfordshire. Photograph: Anesco
+While National Grid said that handling the amount of variable, renewable power on the system is not adding to consumer costs at the moment, studies have shown a much higher penetration of green energy could result in higher bills. A report by the UK Energy Research Centre earlier this year warned that balancing intermittent wind and solar would increase costs if the grid is not made more flexible with new measures, such as battery storage.
+National Grid has launched a new forecast of the gridâs carbon intensity , to help householders see the most environmentally friendly time to use appliances such as washing machines, or to charge an electric car. The best times to keep emissions down while making a cup of tea on Tuesday, for instance, are forecast to be at 1am, 2.30pm and 11.30pm.
+In a further boost for green energy the climate minister, Claire Perry, on Tuesday will officially open a solar farm in Bedfordshire that has been billed as the first subsidy-free one of its kind in the UK. Perry hailed it as âa significant moment for clean energy in the UKâ.
+Installations of large-scale solar farms crashed after the government ended subsidies in the spring of 2016, but the developer of the new facility near Flitwick believes that energy storage has made them financially viable, even without state support.
+âSolar obviously by itself is still very difficult. What weâre doing is making it into a hybrid site,â said Steve Shine, chairman of Anesco, in reference to the 6MW of batteries that will store electricity generated from the 10MW solar farm during the day, to be sold when the power is most valuable. The farmâs capacity is enough to power the equivalent of about 3,000 homes.
+Shine said the project would break even due to the batteries and the way the company had cut costs by nearly a third through measures such as not burying cables.
+âI really do believe this is the future,â said Shine, arguing the combination of solar and batteries could help address the UKâs energy challenges. âWeâre not building new CCGT [gas], coalâs got to come off, nuclear needs a lot of subsidy, offshore wind is obviously good, but solar is lowest life cost.â
+Separately, a report from Imperial College predicted that the combination of solar power and batteries could be so financially attractive to householders by 2030 that the technologies would âbleed revenues from the utilities sectorâ.
+Topics>>

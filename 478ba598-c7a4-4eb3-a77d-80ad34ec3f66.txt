@@ -1,0 +1,34 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:478ba598-c7a4-4eb3-a77d-80ad34ec3f66> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:The Vatican said Tuesday that it is "perplexed and baffled" by the public prosecutor's actions.
+
+Ettore Gotti Tedeschi says he was also humiliated by the investigation
+He said the bank must now explain the facts
+It must also get on the "white list" of banks, he says
+RELATED TOPICS
+Italy
+Rome, Italy (CNN) -- The president of the Vatican Bank told CNN on Friday he was incredulous and "humiliated" when he learned Italian investigators were looking into money-laundering allegations against the bank.
+Italian authorities informed the Vatican Bank about the probe on Tuesday, prosecutor Nello Rossi told CNN. Prosecutors seized 23 million euros (about $30 million) in Vatican Bank transactions "as a cautionary measure" on Monday, he said.
+"My first reaction was of incredulity and afterwards, that of feeling humiliated in the intense work that, along with (bank) Director-General (Paolo) Cipriani and all of the institute's managers, I've been carrying out," President Ettore Gotti Tedeschi told CNN by e-mail Friday.
+"After discussing with Doctor Cipriani the actions that spurred the inquiry, I was relieved, and I've realized that we had to immediately take action in explaining the facts to various levels and places," he said.
+Tedeschi said he also realized the need to speed up the process of getting the Vatican Bank on the "white list" of banks that comply with internationally agreed standards, "to prevent other misunderstanding events like the one that just happened."
+This is not the first time Italian prosecutors have investigated the bank, but probes are extremely rare, Rossi said.
+The probe began after another Italian bank informed Bank of Italy investigators of two Vatican Bank transactions that did not appear to comply with anti-money laundering requirements, the Bank of Italy said Tuesday.
+When Bank of Italy investigators told legal authorities about the transactions, they were told that judicial authorities were already investigating the Vatican Bank, a source close to the investigation said.
+The Vatican said Tuesday that it was "perplexed and baffled" by the public prosecutor's actions and that the Holy See aims for "complete transparency" in its financial operations.
+The Vatican Bank is "the most secret bank in the world," author Jeffrey Robinson said Tuesday, and he said there is no way to find out how much money it controls.
+The Vatican's sources of income include its vast real estate holdings, explained Robinson, who wrote "The Laundrymen," which looks at money laundering worldwide.
+"They are huge, huge landholders," he said.
+The Bank of Italy investigation was prompted by two wire transfers that the Vatican Bank asked Credito Artigiano to carry out, the Bank of Italy said.
+The Vatican Bank did not provide enough information about the transfers -- one for 20 million euros (about $26 million) and one for 3 million euros (about $4 million) -- to comply with the law, prompting the Bank of Italy to suspend them automatically, it said.
+It is not entirely clear how much legal authority Italian officials have over the Vatican Bank, since the Vatican is a sovereign state.
+They had the power to seize the money and stop the transactions because they took place on Italian soil, said Rossi, the prosecutor.
+An effort by Holocaust survivors to sue the Vatican Bank in the United States failed in 2009 when a U.S. court ruled that the Vatican Bank had "sovereign immunity" and was not subject to lawsuits filed in the United States.
+A lawsuit against related entities is still in court.
+The Vatican Bank was created by an order of the pope "to carry on activities that are for pious causes," according to expert testimony related to the Holocaust suit.
+It accepts deposits only from top Catholic Church officials and entities, Settimio Caridi testified in U.S. District Court in 2006.
+It uses its funds "for designated pious purposes" and is "an autonomous pious foundation," he said.
+Caridi, a top Italian legal scholar who was called to testify by Vatican lawyers, said the bank is an integral part of the Vatican, a "central entity under the oversight of the Holy See."
+It is ultimately overseen by a commission of five cardinals -- the top position in the Vatican hierarchy below the pope -- which is headed by the Vatican secretary of state.
+The Vatican Bank is subject to particularly stringent anti-money laundering regulations because Italian law does not consider it to be operating within the European Union.
+It must supply more detailed information about transactions than European Union banks have to give.
+CNN's Hada Messia in Rome, Italy, and Richard Allen Greene in London, England, contributed to this report.
+Share this on:>>

@@ -1,0 +1,11 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:52e066ea-4996-4e98-b23e-8023642275ed> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Josh Smith
+Share
+North Korea has suspended high-level talks with South Korea due to US-South Korean military exercises and warned that a summit next month between Kim Jong-un and Donald Trump could be in jeopardy.
+North Korea's official Korean Central News Agency called the US-South Korean "Max Thunder" air combat drills, which it said involved US stealth fighters and B-52 bombers, a "provocation" that went against the trend of warming North-South ties.
+"This exercise, targeting us, which is being carried out across South Korea, is a flagrant challenge to the Panmunjom Declaration and an intentional military provocation running counter to the positive political development on the Korean Peninsula," Yonhap quoted KCNA as saying.
+"The United States will also have to undertake careful deliberations about the fate of the planned North Korea-US summit in light of this provocative military ruckus jointly conducted with the South Korean authorities."
+Trump and Kim are due to meet in Singapore on June 12 for a summit that until recently had looked impossible given the insults and threats the two leaders exchanged over the past year as tension rose over North Korea's development of nuclear missiles capable of hitting the United States.
+Heather Nauert, spokeswoman for the US State Department, said it had no information from North Korea about threat to cancel the summit and that it continued to plan for that meeting.
+The White House did not immediately respond to a request for comment.
+Any cancellation of the summit, the first meeting between US and North Korean leaders, would deal a major blow to Trump's efforts to score the biggest diplomatic achievement of his presidency.
+He has raised expectations for a successful meeting even as many analysts have been skeptical of the chances of bridging the gap due to questions about North Korea's willingness to give up a nuclear arsenal that now threatens the United States.>>
