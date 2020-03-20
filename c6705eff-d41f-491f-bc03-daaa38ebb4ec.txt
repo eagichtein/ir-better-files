@@ -1,0 +1,7 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:c6705eff-d41f-491f-bc03-daaa38ebb4ec> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:7/11/2014 6:00PMÂ Â Â Â Â 
+How Israel's Iron Dome Rocket Defense System Works
+Israel's Iron Dome air defense system is intercepting Hamas rockets from Gaza with a claimed 90% success rate. Here's how the system works.
+Â  Â  Â  Â  Â 
+Transcript
+This transcript has been automatically generated and may not be 100% accurate.
+... the Verizon increasingly advanced artillery guns ... is once again testing in sales in tow missile defenses ... the Israeli military said the fire until he said at least twenty one rockets in July and I ... user generated video system in action during across social media class ... iron pill works like this ... the systems reader unit identifies an incoming rocket relays information about its speed and trajectory to the missile batteries control center ... their computers calculate whether or not the rocket is going to land in a populated area ... it is that on your interceptor missiles fighter ... interceptor missile receives constant guidance from the control center and its own internal radar ... the instep in years the incoming rocket is that it's destroying both rockets ... during hostilities between Israel and Hamas ... well ... the Israeli military claimed until just before under twenty one runs ...>>

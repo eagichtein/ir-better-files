@@ -1,0 +1,5 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:4740db90-1c3e-44ab-9dee-30335fc7ca8b> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Vatican Bank to publish balance sheets online
+Also seeking outside consultation, IOR president says
+14 May, 17:41
+Suggerisci ()
+(ANSA) - Rome, May 14 - The Vatican Bank will start publishing its balance sheets online by the end of the year, its president said Tuesday.       In his first full staff meeting since assuming the post in February, Ernst von Freyberg added that other documents would also be made public on a special website, and that an "international organization" would be consulted to oversee that transactions are in accordance with Vatican and international standards.       The Vatican Bank, officially known as the Institute for Works of Religion (IOR), has come under scrutiny for alleged money laundering and is now working with the Council of Europe's Moneyval anti-money-laundering agency in a bid to make it onto the international 'white list' of banking.       A progress report is expected in December.>>

@@ -1,0 +1,38 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:967080cb-abbe-481e-8ab8-4d507c2eddaa> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:The effects of Flint's lead poisoning disaster 04:59
+Story highlights
+The EPA says the city of Flint and the state of Michigan are among those responsible for the water crisis
+The agency's regional administrator who oversees Flint has resigned
+Congress may hold a hearing on the incident
+(CNN)
+For several weeks now, city and state officials have traded barbs over who is ultimately responsible for the toxic water that's inundated Flint, Michigan.
+On Thursday, the feds said they both are.
+In an emergency administrative order , the Environmental Protection Agency slammed the city of Flint, the Michigan Department of Environmental Quality and the State of Michigan, saying they are all responsible for the lead contamination in the city's water.
+Their responses to the crisis, the EPA said, were "inadequate to protect public health."
+EPA administrator resigns
+Read More
+"There are serious, ongoing concerns with delays, lack of adequate transparency, and capacity to safely manage the drinking water system," the agency said in a press release.
+The emergency order also means the EPA will start doing its own lead testing in Flint's water system.
+Changes coming to the EPA
+The EPA also announced a series of internal changes in response to the Flint crisis.
+Susan Hedman, the agency's regional administrator for Flint, resigned. And the agency's Office of Inspector General has been asked to investigate the water supervision program that was under Hedman's purview.
+In late June, then-Flint Mayor Dayne Walling wrote to Hedman, seeking information about the issue of lead in Flint's drinking water. She essentially shot him down in her response.
+5 striking emails on the Flint water crisis
+"The preliminary draft report should not have been released outside the agency. When the report has been revised and fully vetted by EPA management, the findings and recommendations will be shared with the City and MDEQ [Michigan Department of Environmental Quality] -- and MDEQ will be responsible for following up with the City," Hedman wrote.
+U.S. Rep. Jason Chaffetz, the chairman of the House Oversight Committee, called Hedman's resignation "way overdue."
+"EPA is rife with incompetence and Region 5 [which Hedman was in charge of] is no exception," Chaffetz said in a statement. "One resignation will not change the top to bottom scrubbing EPA needs, but it is a step in the right direction."
+. @jasoninthehouse statement on #EPA official's resignation in the wake of the #Flint water crisis pic.twitter.com/iPyCXBOVCM
+â GOP Oversight (@GOPoversight) January 22, 2016
+Hedman had also fallen under fire for allegedly retaliating against EPA employees involved in investigating sexual harassment cases.
+The EPA also announced it will put forward a revision to the Lead and Copper rule, based in part on the experiences in Flint. The EPA expects a proposal to be ready for public comment in 2017.
+Snyder to appear before Congress?
+Gov. Rick Snyder, who has come under fire for his handling of the crisis, may be headed to Capitol Hill to explain what happened.
+On Thursday, the Detroit Free Press reported that U.S. Rep. Brenda Lawrence had been informed that the House Oversight Committee would hold a hearing on Flint's water contamination next month.
+Her office also heard that the committee is expected to invite Snyder.
+Lawrence, who represents Michigan's 14th District and is the ranking member on the committee, publicly called for a congressional oversight hearing on the Flint issue last week.
+Her office has not return CNN's calls requesting comment.
+The committee's chairman, Chaffetz, has not announced any hearings on the issue. His office declined to confirm the report to the Free Press.
+Obama: 'Not something that we should accept'
+President Barack Obama announced on Thursday that $80 million in new funding would be available to Michigan next week in order to help the state improve its water infrastructure.
+"Our children should not have to be worried about the water that they're drinking in American cities," he said.
+Obama spoke with McCarthy on the phone and met with Flint's mayor this week.
+CNN's Dana Ford, Michelle Kosinski, Kevin Liptak and Greg Botelho contributed to this report.>>

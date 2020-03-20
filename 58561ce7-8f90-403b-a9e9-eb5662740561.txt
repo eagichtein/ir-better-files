@@ -1,0 +1,20 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:58561ce7-8f90-403b-a9e9-eb5662740561> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Bank of America rooftop solar project is world's biggest
+
+Bank of America and NRG are partnering to produce solar projects similar to the one shown here.
+NEW YORK (CNNMoney) -- Bank of America has secured a federal loan guarantee that will allow it to finance the world's largest single effort to put solar panels on rooftops, the company said Wednesday.
+The total cost of the project is $2.6 billion, and will be financed by the private sector over a four year period.  The loan guarantee -- made through the Department of Energy -- means the government is on the hook for part of the project's costs should it fail.
+Print
+Bank of America ( BAC , Fortune 500 ), which is partnering with industrial real estate owner Prologis ( PLD ) and the utility NRG Energy ( NRG , Fortune 500 ) on the project, estimates the solar installations will result in 733 megawatts of solar energy production. That's about half the size of a nuclear reactor, or enough energy to power around 100,000 homes.
+The project involves putting solar panels on hundreds of industrial buildings in a number of states across the country.
+"This program will nearly double the amount of grid-connected solar online in the United States today and make another positive contribution to cleaner air and a healthy environment," Tom Doyle, president of NRG Solar, said in a statement.
+The loan guarantee is being facilitated through the Department of Energy's Financial Institutions Partnership Program, a program that is ending this fall, and is likely to spark a series of deals over the coming months.
+0:00 / 2:19 'I switched to solar'
+Generous government subsidies are the main reason the economics for solar work in the United States. Between federal, state and local incentives, up to 50% of the cost of a solar system can often be subsidized.
+The government is funding this industry because it hopes that creating a market will foster technological innovation in the space, driving down the cost of solar panels to the point where they are competitive with fossil fuels.
+Google invests $280 million in SolarCity
+Nathaniel Bullard, a solar analyst at Bloomberg New Energy Finance said the BofA deal is the largest single financing deal produced so far by the program.
+"What's just as interesting is that it's not just for one project, but a suite of hundreds of projects."
+Prologis, a large operator and developer of industrial real estate, will provide access to rooftops, in addition to holding an equity stake in the project.
+NRG Energy is slated to be the lead investor in the project's first phase, a 15 megawatt capacity to be installed in Southern California.Â 
+First Published: June 22, 2011: 4:23 PM ET
+Related Articles>>

@@ -1,0 +1,16 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:be731231-6132-43d5-a8eb-366d2b712cce> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Security disperse protesters in front of Israeli embassy in...
+GAZA/OCCUPIED JERUSALEM (Reuters) - Israeli navy commandos clashed with Hamas gunmen during a raid on the coast of the Gaza Strip on Sunday, the first such gunfight of a six-day Israeli offensive on the territory aimed at stopping Palestinian rocket fire.
+The Israeli force was attacking a site in northern Gaza used to launch long-range rockets when it came under fire, a military statement said. The commandos returned fire and managed to hit the launch site, the statement said, adding that four soldiers were lightly wounded in the clash.
+Hamas said its fighters had fired at the Israeli force offshore, preventing them from landing.
+Israel says a ground invasion of Gaza remains an option, and it has already mobilized about 20,000 reservists to do so, but most attacks have so far been from the air, hitting some 1,200 targets in the territory.
+The Islamist group Hamas, which dominates Gaza, has fired hundreds of rockets into Israel, striking deeper in the country than ever before.
+The cross-border violence shows no signs of abating despite mounting international pressure on both sides to end the violence. The U.N. Security Council called for a cessation of hostilities and Western Foreign Ministers were due to meet on Sunday to discuss the need for a ceasefire.
+Still sirens went off throughout the night in Israel, sending residents running for safe rooms and bomb shelters.
+Israeli aircraft carried out a series of attacks in Gaza, including against a police headquarters and a security compound, Palestinian officials said.
+A woman and a three-year-old girl were killed in the air strikes, officials said, bringing the six-day Palestinian death toll to 149, many of them civilians.
+Israel says Hamas puts innocent Gazans in harm's way by placing weaponry and gunmen in residential areas. A senior Israeli military officer said aircraft had aborted "hundreds" of strikes to avoid collateral damage and that targets bombed were meant to impact Hamas fire capacity.
+No Israeli has been killed by the cascade of Hamas rockets, many of which were shot down above Israeli towns by Iron Dome, a partly U.S.-funded interceptor system. Israel rushed an eighth Iron Dome into service on Saturday to counter stronger-than-expected rocket fire from Gaza.
+Fire was also exchanged across Israel's northern border.
+Rockets fired late on Saturday from Lebanon hit Israel, and the military said it responded with artillery fire at the source of the launch.
+Southern Lebanon is a stronghold of Hezbollah, a Shi'ite Muslim group that battled Israel seven years ago and is engaged in Syria's civil war in support of President Bashar al-Assad; but there are also Palestinian groups in the same area.
+Hamas claimed responsibility for the rocket fire from Lebanon, though it was unclear what kind of influence or presence the Islamist group had there.>>

@@ -1,0 +1,4 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:1773c014-9607-4202-bbca-308d7586a2cc> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:(MENAFN - Kuwait News Agency (KUNA)) Israeli Army on Saturday said six missiles were launched at southern areas of Israel from the Gaza Stri
+The Iron Dome, the Israeli anti-rocket defense system, managed to intercept two of the missiles, while the rest landed in the Negev area, with no casualties or damages reported, Israel Radio quoted the army as sayin
+No Palestinian faction claimed responsibility of the attack as of yet
+Tags>>

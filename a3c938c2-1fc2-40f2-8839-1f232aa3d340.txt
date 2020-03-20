@@ -1,0 +1,43 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:a3c938c2-1fc2-40f2-8839-1f232aa3d340> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:The city has a new hyper-accurate map, more money and is trying to streamline bureaucracy in the hopes that the sun could one day power half the town. Here, solar panels on a television studio in Brooklyn.
+NEW YORK (CNNMoney) -- About two-thirds of the one million rooftops in New York City are suitable for solar power.
+If every one of those roofs had solar panels, when the sun shines the brightest the city could get half its electricity from solar power.
+Print
+New York has a long way to go before becoming that solar utopia. The city currently gets only a tiny fraction of its power from solar. And until there's a good way to store the electricity generated during the day and release it at night, solar will likely continue to make up a modest part of the city's overall energy mix.
+But even a small amount of solar can help the city in big ways. It can reduce the overall stress on the electric grid , eliminating the need to build expensive new transformers or lay underground transmission wire.
+During hot days when air conditioning is working overtime, it can reduce the chance of a blackout and cut the need to fire up older, dirtier generators.
+"Some people are waiting to see what the federal or state government will do," David Bragdon, head of Mayor Michael Bloomberg's sustainability office, said at a recent solar conference in the city. "But important things are happening right here."
+The Groupon of solar power
+Among them: A new hyper-accurate map of the city that is designed to gauge solar's potential building-by-building. A plan to put solar farms on top of old landfills. New financial incentives that add to existing city, state and federal subsidies. And an overall streamlining of the solar power permitting bureaucracy.
+These measures, combined with a mandate that requires 30% of the state's power to come from renewable sources by 2015, are driving the development of solar.
+In addition to reducing current demand on the grid, the idea behind solar subsidies and mandates is to foster a stable and growing market for the technology. That way, the private sector will put the time and money into solar research, and perhaps one day it can meet a big chunk of New York's power needs.
+0:00 / 2:52 NYC looks to solar to combat blackouts
+Right now solar is still a minuscule part of the city's overall power consumption -- six megawatts out of an electrical appetite that can reach 13,000 megawatts. But it has doubled over the last year, and is expected to grow another five-fold by 2015, according to Tria Case, director of sustainability at the City University of New York.
+CUNY, along with a handful of other organizations, has been spearheading the effort to bring more solar power to New York.
+In 2007 Case received a grant from the federal Department of Energy that designated New York as one of 25 "Solar American Cities," big cities across the country that would serve as testing grounds for solar power.
+The grant, about $200,000, was used to create a position of solar ombudsman -- someone who would coordinate between all the various government agencies, non-profits, private companies and the local utility, Consolidated Edison ( ED , Fortune 500 ), that are working on solar power.
+Last month CUNY rolled out something even more impressive, at least visually. Using aircraft-mounted laser beams, the university used DOE and city money to create a map out of 15 billion points of data that can pinpoint exactly how much solar can go on any rooftop in the city, how much it will cost, what the incentives are and how long it will take for the homeowner to recoup the investment.
+There are other maps of this kind , but none with such detail. This solar map can pinpoint objects down to the size of a coffee cup, and factors in things like shadows from trees or other buildings, fire code setbacks or stairway entrances to give the most accurate reading of just how much solar energy a building can generate.
+"New York now has the most granular view of the city it's ever had," said Case. "Folks out there want to understand what's possible, and this is really a very powerful tool."
+For people like Jesse Cutaia, the solar map might mean more business.
+Cutaia is a project manager at Solar Energy Systems, at New York-Based firm that designs and builds solar installations .
+"It's a very helpful tool for a building owner to assess their own roof," he said. "It's a great resource to help promote solar in NYC."
+Last week Cutaia spoke to CNNMoney on the roof of a film studio in Brooklyn's Greenpoint section.
+The studio, Broadway Stages, has combined various incentives from the federal government, the city and the New York State Energy Research and Development Authority to put a $2 million solar installation on three buildings it owns in the area.
+The panels provide 35% of the power at the studios, which currently serve as sets for the TV shows The Good Wife, Royal Pains and Blue Bloods. After all subsidies are claimed, Cutaia said the system will pay for itself in electricity savings after just four years.
+"With the money that's available these days, especially in New York City, the economics speak for themselves," said Cutaia.
+The money is substantial. Using the solar map to run the numbers for a residential rooftop in Brooklyn, the incentives on a $60,000 system added up to over $40,000.
+Soon there will be even more money available. As part of the solar effort, New York recently designated three sections of city "solar empowerment zones," eligible for a tax credit to cover an additional 15% of the cost of a system. The areas were chosen based on where the electricity grid needed the additional power the most.
+What Cutaia would really like to see is a one-stop shop to permit solar projects. Currently, he says he has to work with four or five different agencies. This is a common complaint of solar developers nationwide.
+Con Edision is working on this.
+The company recently spearheaded an effort to approve all solar projects within 100 days or less.
+0:00 / 2:35 Solar power scrubs NYC subways clean
+Some say Con Edison -- and utilities in general -- are not inclined to support a system like solar where the customers generate their own power.
+And while some in the industry fault ConEdison for fighting a bill requiring more solar power in New York State, others give the utility credit for getting serious with solar over the last few years.
+John Mucci, Con Edison's vice president of Manhattan operations, said the utility doesn't support the solar bill because it will raise rates for its customers and that the renewable mandate of 30% is enough at this time.
+Mucci pointed out that the company is now responsible for just the wires and transformers and is no longer in the power generation business, and thus it does not view solar as a competitor.
+He said solar does make the grid stronger, can prevent blackouts and keeps the utility from having to make expensive upgrades.
+He also supports it from a green perspective.
+"Anything that generates energy and doesn't burn anything is an amazing technology," said Mucci. "We should try to use more of it."
+Correction: An earlier version of this story incorrectly stated that 80% of New York City rooftops are suitable for solar power.Â 
+First Published: July 25, 2011: 5:59 AM ET
+Related Articles>>

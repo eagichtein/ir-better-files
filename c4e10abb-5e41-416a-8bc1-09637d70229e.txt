@@ -1,0 +1,52 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:c4e10abb-5e41-416a-8bc1-09637d70229e> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Australia's rising solar power 'revolution'
+After record-breaking solar project, scientists question why coal-dominated nation ignores renewable innovation.
+13 Jan 2015 12:41 GMT
+Australian scientists say solar energy will drive future power production around the world [Reuters]
+Adelaide, Australia - Australian researchers broke the world's solar power efficiency record last monthÂ with their design of a novel commercial energy system, raising hopes the fossil-fuel dominated country may someday switch off its reliance on coal.
+Led by Professor Martin Green, the University of New South Wales team worked with a local company to create a highly efficient solar energy system that uses mirrors to concentrate sunlight onto a central solar panel to generate electricity.
+The method is known as concentrator photovoltaics (CPV), and the end product is a system with an efficiency of 40 percent - meaning 40 percent of the sunlight hitting the solar panels is converted into energy, the highest such level ever achieved.
+Most importantly, the design uses readily available materials that makes putting the system into operation easier - and cheaper - than trying to commercialise more experimental designs.
+Green, who is also the director for the Australian Centre for Advanced Photovoltaics, has a history of this kind of innovation.
+Solar will become the cheapest way to generate electricity at any scale. The transition is going to occur where it becomes cheaper to use solar than coal.
+- Professor Martin Green
+In 2011, he and his team built a solar cell that operated with 19.3 percent efficiency and soon after pushed this to 19.4 percent, edging out the previous record holder with 18.9 percent efficiency.
+Off the grid
+This kind of innovation has become the hallmark of the solar energy industry, and it is only going to grow, according to Green.
+"What's happening now is that photovoltaics has improved so much recently that it is better at producing electricity than using hot steam," Green told Al Jazeera.
+"Solar will become the cheapest way to generate electricity at any scale. The transition is going to occur where it becomes cheaper to use solar than coal."
+In the past, lower efficiencies and the risk of a power outage on a cloudy day meant solar power was viewed with suspicion by consumers and industry analysts.
+But that has changed over the last five years as the cost of installing a solar energy system in Australia has been reduced.
+With a huge uptick in the number of people installing solar powered systems on their rooftops, there is less demand during periods of peak usage, such as during the afternoon.
+This, in turn, is forcing electricity prices lower and will force a fundamental change in the way developed nations generate electricity, according to Giles Parkinson, editor of RenewEconomy, an Australian website that tracks developments in the solar energy industry.
+"If you look at what the mainstream analysts are saying now, they are talking about the solar revolution," said Parkinson.Â "Even the energy distributors in Australia, they are talking about the end of centralisation and the rise of the micro-grid."
+RELATED:Â Saudi Arabia: Ray of light in climate fight? Â 
+According to Parkinson, solar is now at "grid parity" with traditional sources of electricity.
+"What we're starting to see now, in Australia and around the world, is that the large utilities have realised the transition is inevitable, that they can slow it down but they can't stop it," Parkinson said.
+Within Australia, the industry is supported through subsidies such as the Renewable Energy Target (RET), whichÂ requires the government to ensure that 41,000 gigawatt hours of the country's energy is produced by renewable sources by 2020.
+The other function of RET has been to promote both large and small-scale investment in renewable projects, which helped grow the Australian renewables sector to become a $20bn industry.
+But with a government review of the programme and uncertainties around its future, large-scale investment in renewable energy projects such as wind farms has ground to a halt.
+While no government decision has yet been made about the future of the programme, the uncertainty it created effectively caused the bottom to fall out from the industry , slowing its growth.
+Meanwhile, smaller-scale investment - such as roof-top solar systems - has so far escaped the same fate as consumers who install such a system could receive an upfront payment.
+Political struggle
+Since coming to power, the conservative Liberal Party government led by Prime Minister Tony Abbott has largely struggled to implement its policy agenda.Â 
+One of the few victories came in the area of climate change, with the repeal of the Emissions Trading Scheme and the Carbon Tax, which Abbott had labelled a threat to economic growth during his time in opposition.
+Instead, the coalition government favours a series of policies it calls "Direct Action" to lower emissions by five percent from 2000 levels by 2020.Â Effectively, the policy works by paying polluters to cut their emissions.
+Since then, the country's approach to environmental and climate policy has made waves internationally.
+In one speech made on the sidelines of the Brisbane G20 in November 2014, US President Barack Obama called for Australia to do more to protect the Great Barrier Reef and fight climate change.
+Â The coal mining industry is a key and powerful sector of the Australian economyÂ [Reuters]
+The comments were not well received in Canberra, which had worked to keep climate change off the agenda of the international economic summit.
+Going nuclear
+During late 2014, the trajectory of Australian policy on climate and energy became clear in a now infamous statement made by the prime minister during the opening of a $3.8bn coal mine in Queensland state.
+There AbbottÂ  told an audience that "coal was good for humanity", effectively tying the country to the coal industry.
+In another instance, the Australian government seemed to revive the debate over nuclear power with Australian Foreign Minister Julie Bishop saying it was an "obvious conclusion" that nuclear offered the best way to bring down emissions.
+Australia is one of the world's biggest carbon emitters on a per capita basis and is among the worst performing industrial nations on climate change, according to a report by Germanwatch, a sustainable development advocacy group.
+The country also holds 31 percent of the world's uranium supply, but does not produce any nuclear power of its own because of a ban on the use of nuclear technology.Â The country so far has only a single reactor, located in a small research facility at Lucas Heights in Sydney's southwest, that is primarily used in the production of medical equipment.
+While the call for a debate has been welcomed by business groups, and some academics and engineers who see modern nuclear technology as safe and the best method to lower emissions, it has also faced objections from environmentalists.
+Senator Christine Milne, leader of the Australian Greens Party, said the move is "embarrassing" in the eyes of the world.
+"You can't address climate change using heavily centralised, obsolete, hideously risky fission reactors," Milne told Al Jazeera. "It's a humiliating stance.Â Australia needs to phase out fossil fuels and move to 100 percent renewable energy for the climate - and for our economy."
+Â Australia pioneers renewable power
+In response, Abbott has said he, too, would welcome a debate over the role of nuclear power, but also said his government would not provide the funding needed to develop a large-scale nuclear project.
+Those such as Professor Green who are at the forefront of the "solar revolution" argue Australia seems to be struggling hard against an inevitability.
+"You have to have some type of plan for the future, rather than trying to hold onto the past," said Green. "Solar is going to be a big industry in every country.
+"The present Australian government is trying to keep things the way they are, as long as they can, rather than embracing the advantage of the new technology."
+SOURCE: Al Jazeera>>

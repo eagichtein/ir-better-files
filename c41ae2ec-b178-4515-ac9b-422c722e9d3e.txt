@@ -1,0 +1,15 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:c41ae2ec-b178-4515-ac9b-422c722e9d3e> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Obama plans to put solar panels on low-income homes
+by Steve Hargreaves Â  @hargreavesCNN July 7, 2015: 1:10 PM ET
+President Obama offers new ways to put solar panels on low income housing -- like these panels on a Colorado public housing project -- and expand solar for others with limited access to clean energy.
+Who says solar power is just for the rich?
+The White House outlined a series of measures Tuesday designed to put more solar panels on low-income housing and expand access to solar power for renters.
+The measures include clarified federal guidelines on how local housing authorities can use federal money to finance solar panels as well access to over $520 million in new capital from foundations, local governments and social impact investors. The money is designed to expand solar power on both low-income housing as well as promote "community solar" -- solar panels on public property that supply clean power to renters or others without the ability to put panels on their roof.
+"The Obama Administration is committed to addressing climate change, promoting clean energy, and creating good paying jobs," the White House said in a statement.
+Related: Solar is growing fast, but coal still king
+The measures also include money to deploy AmeriCorps workers to install solar in low income areas as well as revamped guidelines on using government-backed second mortgages to finance solar systems.
+The expanded access to capital should help low income residents who don't have the money or credit to pay for solar systems but could benefit from their use. Typically, homeowners who switch to solar end up saving 10% to 20% on their monthly electric bill.
+One of the plan's goals is to triple the amount of solar power installed on low income housing -- bringing it to over 300 megawatts, or enough to power roughly 50,000 homes.
+But it's also to assist the solar power industry while costs continue to fall and is part of the administration's overall plan of transitioning to cleaner energy by offering support for renewables while at the same time tightening pollutions standards around fossil fuels.
+The administrations notes that the cost of a typical rooftop solar system has fallen by 50% since 2010, and that last year more solar power was brought online every three weeks than in all of 2008.
+While growing rapidly, solar still accounts for less than 1% of the nation's overall energy use.
+CNNMoney (New York) First published July 7, 2015: 1:10 PM ET>>

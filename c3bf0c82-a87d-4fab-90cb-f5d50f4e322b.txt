@@ -1,0 +1,42 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:c3bf0c82-a87d-4fab-90cb-f5d50f4e322b> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Four more people have been charged in connection to the ongoing water crisis in Flint
+The number of people charged in connection to the water crisis is now at 13
+(CNN)
+Four officials in charge of Flint's water, including two who reported directly to Governor Rick Snyder, have been named in the fourth round of charges announced by the Michigan attorney general's office as it investigates the city's water crisis.
+Two of Flint's former emergency managers and two water plant officials were charged Tuesday for felonies of false pretenses and conspiracy -- the allegations are that they misled the Michigan Department of Treasury into getting millions in bonds, and then misused the money to finance the construction of a new pipeline and force Flint's drinking water source to be switched to the Flint River.
+CDC report reveals magnitude of Flint water crisis
+Jerry Ambrose and Darnell Earley, both emergency managers put in charge of Flint during a years-long financial crisis, reported directly to the governor and are the highest level officials to be charged so far. They also face misdemeanors of misconduct in office and willful neglect of duty.
+Read More
+The other two men, Howard Croft and Daugherty Johnson, were city water plant officials involved in making the switch from purchasing drinking water from the city of Detroit, to treating water from the Flint River.
+Flint family says Navy is retaliating for speaking out about water crisis
+The charges today mark the 13th since the water crisis began. These also focus on money: allegations that officials put balance sheets ahead of Flint residents.
+"All too prevalent and very evident during the course of this investigation has been a fixation on finances and balance sheets," said Michigan Attorney General Bill Schuette. "This fixation has cost lives. This fixation came with the expense of protecting the health and safety of Flint. It's all about numbers over people, money over health."
+The charges lead Congressman Elijah E. Cummings to renew his call for Snyder to be subpoenaed once again before the House Oversight Committee.
+Flint residents still need help with water crisis
+Schuette laid out the charges Tuesday morning at a press conference, saying that Ambrose and Earley wanted Flint to help finance the Karegnondi Water Authority, a new pipeline still under construction. Flint is supposed to hook up to the pipeline so it doesn't have to pay the city of Detroit for drinking water.
+But Earley and Ambrose couldn't get a bond for Flint to buy in to the new pipeline, because the city had no credit rating and was $13 million in debt.
+So they used a loophole -- a clause reserved for dealing with "fire, flood, or other calamity," to borrow tens of millions to pay for the KWA.
+They masked the request as being for the clean-up of a troublesome lagoon of lime sludge (a by-product of water treatment). But the money went to the KWA -- which would not have been able to move forward without Flint's portion of the money.
+They learned the truth about their water a year ago. This is Flint now.
+In addition, buried in the bond application was one paragraph requiring that the Flint River be used to provide the city's drinking water while the KWA was being constructed.
+This was done while there were serious concerns about the readiness of the Flint water plant to treat its water.
+Schuette said Croft and Johnson conspired with Ambrose and Earley to ignore warning signs that the plant wasn't ready.
+"We are closer to the end than we are to the beginning," Schuette said, reiterating that no one is immune from their investigation.
+"There are voices out there that hope the poisoning of the water in Flint could be swept under the rug. And they hope and wish that the 24-hour news cycle would move on to another subject," Schuette said. "Flint deserves better, and the people of Flint are not expendable, so to move on is unacceptable."
+Michigan ACLU sues schools after Flint water crisis
+Deciding to go with the KWA set off a chain of events. Flint needed to find a water source while it was being built. Its water plant was rushed into use. And then, emails show, Croft signed off on the decision not to add anti-corrosive agents (called phosphates) to the water supply out of fear it would grow bacteria.
+But without those phosphates, the water corroded lead pipes and it leached into drinking water. Hundreds of children were poisoned.
+In addition, the corrosion gave other bacteria -- such as legionella, a cause of Legionnaires' disease -- a place to flourish, and Flint had one of the nation's largest outbreaks of that disease. A dozen people died.
+Earlier this year, Flint's new mayor, Karen Weaver, told CNN that Croft had ignored concerns raised about the water.
+Why lead is so dangerous for children
+Snyder has said repeatedly that he was unaware of any problems with lead in the water until the fall of 2015, or Legionnaires' problems until January 2016. But he has admitted that he wishes he'd asked more questions when residents began to raise concerns about the smell, taste and odor of their water immediately after the switch in April of 2015.
+Almost everyone involved has pointed the finger, saying they received bad information from someone or somewhere else.
+That hasn't stopped Schuette from charging 13 people so far, and suing two engineering firms.
+Amid water crisis, Flint faces a Shigellosis outbreak
+Emails released publicly show that Ambrose was warned about a Legionnaires' problem in Flint in March 2015 from the Genesee County Health Department. Two weeks after that exchange, Ambrose publicly declared the water was "safe" and criticized a vote by the Flint City Council to stop using the water. (The vote didn't matter, because Ambrose was in charge of all decision-making in Flint while it was in financial receivership.)
+Earley resigned and Snyder promoted him and gave him a raise, appointing him emergency manager of Detroit Public Schools. He held that job until resigning in February amid the growing furor over the water crisis.
+Snyder announced Earley's resignation, saying this about his service: "Darnell has done a very good job under some very difficult circumstances."
+Join the conversation
+See the latest news and share your comments with CNN Health on Facebook and Twitter .
+Meanwhile, Earley had refused a subpoena to testify before the House Oversight Committee investigating Flint's water crisis, and was chastised by Congressman Jason Chaffetz, who called on US Marshals to "hunt him down."
+He eventually did testify and denied any wrongdoing. He told the committee that he had family in Flint, has attended church services there and blamed "experts" who he said misled him in his decision making.
+"At no time ... did I receive any information that would even remotely indicate that the use of the Flint River was unsafe in any way," he told the Congressional committee.>>

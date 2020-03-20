@@ -1,0 +1,14 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:3924a3f4-008e-4a7e-a0c3-24e0541eac0d> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:South and North Korea agree to ease military tensions, work towards trust
+They agree on need to end cease-fire in favor of permanent peace
+They agree to expand economic, cultural, social and humanitarian cooperation
+The two sides agree to work towards benefit of Korean residents abroad
+Next Article in World Â»
+SEOUL, South Korea (CNN) -- The following are the eight points of an agreement signed Thursday by North Korean leader Kim Jong Il and South Korean President Roh Moo-hyun at the end of the Pyongyang summit, according the South Korean press corps covering it from North Korea:
+South and North Korea are to actively implement the June 15 Joint Declaration
+South and North Korea are to work for mutual respect and trust in order to overcome differences in ideology, system.
+South and North Korea are to ease military tensions, resolve disputes through dialogue and negotiations. The two sides are to set up a joint fishing area in the West Sea to avoid accidental armed conflict. The two sides are to hold defense ministerial talks in November in Pyongyang to discuss ways of supporting inter-Korean economic cooperation and easing tension.
+South and North Korea agree on need to end the current armistice and establish permanent peace. The two sides are to push for a declaration of the ending of the Korean War in cooperation with neighboring nations. South and North Korea are to make joint efforts for the smooth implementation of the September 19 and February 13 six-nation nuclear agreements.
+South and North Korea are to expand economic cooperation for balanced development and co-prosperity. The two sides are to create a special peace zone around Haeju in North Korea and nearby areas, as well as work towards a joint fishing area, peace waters, special economic zone, and joint development of the estuary of the Han River.
+South and North Korea are to develop cooperation in the history, language, education, technology, culture, sports, and social sectors. The two sides are to open a direct air route between Seoul and Mount Paekdu to allow South Koreans to visit the mountain in North Korea.
+South and North Korea are to actively push for humanitarian cooperation and expansion of the reunions of separated families.
+South and North Korea are to strengthen cooperation for national interest in the international stage and the benefits of Korean residents abroad.>>

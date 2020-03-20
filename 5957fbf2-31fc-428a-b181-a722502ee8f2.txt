@@ -1,0 +1,17 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:5957fbf2-31fc-428a-b181-a722502ee8f2> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:China, U.S. discuss one-year cooperation plan during economic dialogue
+0
+
+The first China-U.S. Comprehensive Economic Dialogue is held in Washington July 19, 2017. Chinese Vice Premier Wang Yang on Wednesday called for cooperation between China and the U.S. instead of confrontation to address their differences. (Xinhua/Yin Bogu)
+WASHINGTON, July 19 (Xinhua) -- China and the United States discussed a one-year action plan of economic cooperation during the first China-U.S. Comprehensive Economic Dialogue (CED) on Wednesday.
+The dialogue "charted the course for China-U.S. economic cooperation," said a statement from the Chinese delegate who participated in the one-day talks on Wednesday.
+According to the statement, the two countries agreed to cooperate in areas such as macro economy, finance, trade, investment and global economic governance in the one-year action plan.
+They also agreed to work constructively together to address the trade imbalance between the two countries.
+Both sides will further expand cooperation in the service and manufacturing sectors, as well as increase trade in services and high-tech products.
+In terms of investment, the two countries will expand mutual investment and create a more open, equitable, transparent and convenient investment environment.
+Both sides will also strengthen macro-economic policy communication and coordination, and deepen practical cooperation in financial regulation and financial market development.
+With regard to international cooperation, China and the United States will enhance cooperation in the Group of 20 and on other global economic governance platforms, advance the reform of the international economic and financial systems, and promote the strong, sustainable, balanced and inclusive development of the world economy.
+"China and the United States are each other's largest trading partner and major source of investment. Cooperation is the only right choice for the two sides," Chinese Vice Premier Wang Yang said in his opening remarks at the CED on Wednesday.
+China-U.S. cooperation will benefit not only the companies and people of the two countries, but also the whole world, said Wang.
+The United States also acknowledged the importance of the bilateral economic relationship. "As the world's two largest economies and the major drivers of global growth, the United States and China have strong overlapping interests," said U.S. Treasury Secretary Steven Mnuchin in his opening remarks at the CED.
+The two countries need to work together to maximize the benefits for both sides and develop a fair and balanced economic relationship between the two countries, said Mnuchin.
+Both China and the United States agreed that the dialogue has served the purpose of deepening mutual understanding, building mutual trust and expanding consensus, and laid a solid foundation for long-term and stable cooperation between the two countries, said the statement.>>

@@ -1,0 +1,21 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:5917c83a-28e7-4cfd-93ce-979447e6b233> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:What is lead poisoning?
+Washington (CNN)
+Flint Mayor Karen Weaver met with President Barack Obama at the White House Tuesday to discuss the Michigan city's water crisis, the same day the Environmental Protection Agency said it was reviewing its own response to lead contamination there.
+Weaver, in Washington to attend a meeting of mayors, had said previously Tuesday that Obama needed to hear directly about the ongoing health calamity facing her city, and advocated for higher levels of federal support.
+In a description of the early evening meeting, the White House said Obama "heard firsthand how the residents of Flint are dealing with the ongoing public health crisis, and the challenges that still exist for the city, its residents, and the business community."
+The White House added Weaver discussed the "need for trust to be restored" between her city's residents and government officials during an earlier meeting with Obama's senior adviser Valerie Jarrett.
+Mayor Karen Weaver
+Obama, who will visit Detroit on Wednesday, is not expected to visit Flint while he's in Michigan. The goal of his trip, the White House says, is to highlight a resurgent American auto industry.
+Read More
+Flint, the birthplace of General Motors that once employed 80,000 autoworkers, but which now faces widespread poverty after auto jobs largely left the city, has been reeling from the discovery that its water contains dangerously high levels of lead.
+The revelation has led to accusations of government negligence and political cover-ups. Focus has honed in on Michigan Gov. Rick Snyder, a Republican, who opponents claim took too long to respond when tests indicated high levels of lead in Flint's drinking water.
+The EPA on Tuesday accused Michigan state officials of "failures and resistance" in working with the federal government "in a forthright, transparent and proactive manner consistent with the seriousness of the risks to public health."
+"We must ensure this situation never happens again," the EPA's statement read, adding "we also must look at what the agency could have done differently."
+Speaking Tuesday on a conference call organized by Hillary Clinton's presidential campaign, Weaver said she came to Washington hoping to secure more federal support for her city.
+"We still need some federal assistance because they money from the state is not going to be enough to rectify the situation here that we have in Flint," Weaver said. "It's ongoing. It's going to be following some of these people for the rest of their lives."
+The White House said Tuesday it was tasking Nicole Lurie, the assistant secretary for preparedness and response at the Department of Health Human Services, with coordinating federal response to the Flint crisis. She was scheduled to travel to Flint on Wednesday.
+Over the weekend, Obama declared a state of emergency in Flint, which allows the Federal Emergency Management Agency to provide the city with bottled water and filters worth up to $5 million.
+That's far less than what the city says it needs to deal with the water contamination crisis, and Snyder has requested Obama declare the situation in Flint a disaster. The White House has resisted the appeal, insisting such a designation is only permitted after natural occurrences like hurricanes and blizzards.
+Clinton, meanwhile, has attempted to use the Flint crisis as a demonstration of her leadership skills while she confronts a closer-than-expected Democratic primary race against Sen. Bernie Sanders of Vermont.
+Raising the issue unprompted during Sunday evening's Democratic presidential debate, Clinton took responsibility for spurring action in the state's leadership.
+"I issued a statement about what we needed to do and then I went on a TV show and I said it was outrageous that the governor hadn't acted and within two hours he had," Clinton said. "I want to be a president who takes care of the big problems and the problems that are affecting the people of our country everyday.">>

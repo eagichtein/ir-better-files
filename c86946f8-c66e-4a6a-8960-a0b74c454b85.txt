@@ -1,0 +1,19 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:c86946f8-c66e-4a6a-8960-a0b74c454b85> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Latest update : 2010-09-21
+Prosecutors have seized â¬23 million from the Vatican Bank and placed its president and a top manager under investigation for failing to disclose information on financial operations as part of a probe into money laundering.
+AFPÂ - Prosecutors have seized 23 million euros of Vatican Bank funds and placed its president under investigation for violating money laundering legislation, the ANSA news agency reported on Tuesday.
+Â  Â 
+Ettore Gotti Tedeschi and another manager of the Istituto per le Opere di Religione (IOR), the bank's official name, are accused of violating legislation that requires banks to disclose information on financial operations.
+Â  Â 
+The Vatican's spokesman declined to comment on the report.
+Â  Â 
+The funds were seized temporarily from the IOR's account in another bank, Credito Artigiano, ANSA said.
+Â  Â 
+According to earlier reports in the Italian press, investigators suspect that subjects with their fiscal residence in Italy are using the IOR as a "screen" to hide dealings such as fraud or tax evasion.
+Â  Â 
+The IOR manages bank accounts for religious orders and Catholic associations and benefits from Vatican offshore status.
+Â  Â 
+In September 2009 the IOR nominated Gotti Tedeschi, Spanish banking giant Santander's representative in Italy, as its new head.
+Â  Â 
+The appointment was greeted at the time as a move towards greater transparency at the IOR.
+Â  Â 
+US archbishop Paul Marcinkus headed the bank in 1971-1989 when it was caught up in scandals including the collapse of the private Italian bank, Banco Ambrosiano in 1982 amid accusations of links to organised crime and political "terrorism".>>

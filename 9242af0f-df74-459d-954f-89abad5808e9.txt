@@ -1,0 +1,19 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:9242af0f-df74-459d-954f-89abad5808e9> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:In Israel, palls of smoke have crisscrossed the sky over the past three days as the Iron Dome air defense system has intercepted rockets fired from Gaza.
+Smoke trails are seen as an Iron Dome intercepts a rocket which was launched from Gaza, near the southern town of Sderot on Nov. 15, 2012. (Ronen Zvulun -- Reuters)
+AboutÂ  500 rockets have been fired into Israel over past two days , and 184 have been intercepted by Iron Dome, an Israeli army spokeswoman told Businessweek, making it a fairly accurate defense system.
+âItâs unbelievable, we are very pleased with how Iron Dome has been operating,â a spokesman for the Israel Defense Forces told The Telegraph . âEven if the situation is very difficult for residents of southern Israel, we can only imagine what it would have been like without these defenses.â
+So what is Iron Dome?
+During the 2006 Israel-Lebanon war, thousands of rockets were fired into Israel from Gaza, killing 44 civilians and dislocating thousands more. Even after the conflict, cities like Ashkelon,Â a Mediterranean town of about 120,000 people, endured dozens of missile strikes a year, The Washington Post reported in 2009 .
+"We have no defenses, no shelters, no public buildings being protected," Alan Marcus, the Ashkelon'sÂ director of strategic planning, told Howard Schneider .
+In order to help create a protective canopy over Isreali towns near the Gaza Strip, the Iron Dome missile defense system was developed by Rafael Advanced Defense Systems, a Haifa arms company, with partial funding from the United States. ItÂ uses small radar-guided missiles to blow up rockets with ranges of between 3 and 45 miles in mid-air.
+The name Iron Dome came about when one of the project's managers discarded runners-up "Anti-Qassam" and "Golden Dome," thinking they were "too ostentatious," according to the Israel Defense Forces site .
+The first Iron Dome battery was installed in March 2011 near the southern city of Beersheva, 40 kilometers from the Gaza Strip, to combat rocket fire from the Palestinian territory,Â  according to Defense News . Earlier this month,Â IsraelÂ announced plans to expand Iron Dome to a fifth battery, citing "a variety ofÂ unprecedented threats."
+Iron Dome is smart enough to ignore missiles that it detects are heading for open land, according to The Telegraph . During previous barrages, the Israelis claimed Iron Dome brought down 85 percent of the rockets it targeted.
+Here it is in action, repelling a series of rocketsÂ launched from Gaza.
+However, the system hasn't been perfect. In August 2011, seven rockets were fired from Gaza and only six were intercepted by Iron Dome -- the last one landed in a residential area andÂ  killed one civilian . InÂ March, Iron Dome intercepted just 56 of 71 rockets fired at Israel's civilian centers after the death of Zohir al-Qaisi in Gaza .
+Each time an Iron Dome battery is fired, it reportedly costs about $50,000.
+Israelâs other defense systems include the forthcoming Davidâs Sling, designed for medium-range rockets and missiles, and the Arrow, which is designed to intercept longer-range missiles fired from Iran.
+Even as Israel seems to be relying on Iron Dome more heavily, it's under siege by yet another threat -- the so-called "fiscal cliff" in the United States.Â 
+Last month Randy Jennings, a defense industry consultant, warned that funding to Iron Dome , which has received hundreds of millions of dollars from the United States, may be stopped in the case of âsequestrationâ, in which $100 billion of next yearâs budget would be cut across the board beginning in January.
+The story must be told.
+Your subscription supports journalism that matters.>>

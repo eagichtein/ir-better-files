@@ -1,0 +1,15 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:40827aef-fcea-4023-93e1-cd9848724792> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:by Mark Thompson Â  @MarkThompsonCNN July 9, 2014: 4:18 PM ET
+Heavenly shakeup at the Vatican bank
+The Vatican is turning to big-hitting Wall Street players for help as it tries to leave its scandal-tainted banking past behind.
+Pope Francis -- a staunch critic of rampant capitalism -- has hired veterans of Invesco, Goldman Sachs ( GS ) and Deutsche Bank ( DB ) to complete an overhaul of the Vatican bank.
+The bank -- whose functions include providing financial advice and services to the Catholic Church -- has been hit by a criminal investigation , high-level resignations and international accusations that it wasn't doing enough to prevent money laundering.
+A report in 2012 by European experts found that the threat of financial crime at the Vatican was low. But the bank's global reach, high volume of cash transactions and a lack of information about some non-profit organizations could make it a target for money launderers.
+Under new management, the Institute for the Works of Religion -- as the bank is formally known -- spent the last year shedding hundreds of customers , dealing with investment losses from the past and improving transparency.
+"Our ambition is to become something of a model for financial management rather than a cause for occasional scandal," Vatican economics chief Cardinal George Pell told reporters.
+Taking charge at the bank is Jean-Baptiste de Franssu, a former CEO of Invesco's European business and founder of an M&A advisory firm. His predecessor, German lawyer Ernst von Freyberg, was unable to commit full time to the role, the Vatican said.
+De Franssu will be joined on the board by Michael Hintze, who began his career at Salomon Brothers in 1982. Hintze was head of U.K. trading at Goldman, ran convertible bonds in Europe for Credit Suisse ( CS ), and went on to found hedge fund CQS.
+Former Deutsche Bank chairman Clemens Boersig has also been appointed to the board, alongside Mary Ann Glendon, Harvard law professor and former U.S. ambassador to the Holy See.
+Their task will be to introduce a new business model that will see the bank focus on its work for the Church, its clergy, congregations and Vatican employees. Its asset management function will be transferred to a new Vatican body.
+Publishing only its second annual report earlier this week, the IOR said net profit last year slumped to 2.9 million euros ($4 million) from 86.6 million in 2012.
+The Vatican is also looking to beef up its media presence. Former BBC chairman Chris Patten has been asked to come up with ways of achieving "substantial financial savings" as well as reaching more people with the Pope App and Pope Francis' Twitter account.
+CNNMoney (London) First published July 9, 2014: 10:46 AM ET>>

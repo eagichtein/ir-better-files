@@ -1,0 +1,21 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:6821e8c8-07e4-405f-aa32-23546bfabfde> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Story highlights
+State and local officials have been investigating water contamination
+Lawsuits have been filed over lead in the water
+(CNN)
+Michigan Attorney General Bill Schuette and the Flint water investigation team are expected to announce the first criminal charges Wednesday in the tainted water case, according to a source briefed on the investigation.
+Schuette and other officials had said that they will make a "significant announcement"  regarding their investigation into the Flint water crisis.
+A statement provided no other details on what they would say.
+In January, Schuette said he was appointing an ex-prosecutor and Detroit's former FBI chief to join the investigation into Flint's water crisis, creating a "conflict wall" between the state's inquiry and lawsuits targeting the state.
+Two years ago, the state decided to save money by switching Flint's water supply from Lake Huron, which it was paying the city of Detroit for, to the Flint River, a tributary that runs through town, notorious for its filth.
+Read More
+Soon after the switch, the water started to look, smell and taste funny. Residents said it often looked dirty.
+Though Flint's water supply is "definitely on its path to recovery," continued concern among residents about lead contamination and other issues hinders the cleanup of the system's network of corroded pipes, according to the Virginia Tech researcher who blew open the Michigan city's water crisis.
+The professor, Marc Edwards, last week said that lead contamination levels continue to surpass acceptable federal standards, and he urged residents to keep using bottled or lead-filtered water for cooking or drinking.
+The development  Tuesday came on the same day that a federal class-action lawsuit related to the crisis was dropped over a procedural issue related to jurisdiction. There are a number of federal and state class-action lawsuits still pending.
+Lots of litigation
+More than 50 lawsuits have been filed since January, accusing the city of being complicit in the water crisis for not doing enough during the 18 months in which Flint was getting its drinking water from the polluted Flint River.
+That move was a decision made by the state, and it turned out to be a terrible one . The river's highly corrosive water wasn't treated properly by the Michigan Department of Environmental Quality, and the water corroded lead service lines, which then caused lead to seep into the drinking water and poison families.
+The poor water quality also caused brown water and high levels of E. coli, carcinogens and other toxins to thrive in the water. Residents reported painful rashes after showering. Several ongoing investigations are looking into whether the bad water also led to an outbreak of Legionnaires' disease that killed 10 people.
+Although the city had no control over decision-making at the time the switch was made, its employees were involved in treating the water at the plant, and involved in testing residents' water for the state.
+Meanwhile, Gov. Rick Snyder is catching heat for announcing this week he will drink filtered Flint water for the next 30 days.
+Snyder says he's doing it to "alleviate some of the skepticism and mistrust" regarding the effectiveness of the filters.>>

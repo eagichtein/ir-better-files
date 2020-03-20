@@ -1,0 +1,39 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:300901b2-e7a7-4e91-9715-8f219e14fc54> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:In the Desert, Harnessing the Power of the Sun by Capturing Heat Instead of Light
+
+Photo
+Near Boulder City, Nev., Acciona Energy operates Nevada Solar One, a solar thermal installation with mirrors that gather heat from the sun and convert it into electricity. The plant produces 64 megawatts. Credit Tiffany Brown
+Scientists have struggled for years to make electricity from the sunâs light at a cost competitive with power from coal or natural gas. The challenges are formidable. But now they are close, using the sunâs heat instead.
+Last month, Acciona Energy, a Spanish company, opened a solar thermal installation spread across 400 acres of desert outside Boulder City, Nev., 25 miles southwest of Las Vegas. Called Nevada Solar One, it has 47 miles of trough-shaped mirrors, lined up in rows. Producing 64 megawatts, it is many times larger than the largest photovoltaic installations, which use the cells that are found in everything from rooftop panels to pocket calculators.
+Acciona will not disclose the production costs at the thermal plant, which was subsidized by the Energy Department. But according to the Solar Energy Industries Association, representing manufacturers of both photovoltaic and solar thermal systems, power from solar thermal electricity costs 12 to 14 cents a kilowatt-hour to produce, while power from solar cells costs 18 to 40 cents a kilowatt-hour. The national average retail price of electricity  is about 10.5 cents a kilowatt-hour.
+Photovoltaic cells, first made practical for the space program, are falling in price, but so are the thermal systems, which focus sunlight on a fluid-filled pipe to collect the heat.
+Advertisement
+
+âThereâs really this renaissance of solar thermal technology, and people are working very hard on how to reduce costs,â said Martin Heming, the executive in charge of solar technology at Schott, the German company that made the collector pipe for Nevada Solar One.
+
+Schott is developing a system that will use molten salt, rather than a liquid, to fill the pipes. Salt could absorb the same amount of heat or more without boiling, and it would stay at atmospheric pressure. The current system heats the pipe to 750 degrees, helped by small electric motors that change the angle of the mirrors during the day to face the sun.
+The heated fluid runs through the pipes to a central power block, where it flows through a network of pipes bathed in ordinary water. The water is boiled and the steam drives a turbine, as in coal plants.
+But a typical coal-burning plant produces about  600 megawatts, roughly 10 times more than Nevada Solar One does. âThe optimum economic size is probably even larger than Nevada Solar One,â said Thomas R. Fair, executive for renewable energy at the two companies that are buying the solar plantâs output, the Nevada Power Company and the Sierra Pacific Power Company. There is a lot of  open desert land, he said.
+A new generation of solar thermal plants is likely to use more efficient technology. Mr. Heming said that switching to sodium, for example, would allow for higher temperatures. Less energy would leak out of the pipe, and electric output would rise.
+Solar thermal power is also being applied in two other ways. One is a supplement to a combined-cycle gas plant. In those plants, natural gas is burned in a jet engine, turning a turbine shaft to make electricity. The exhaust is used to boil water, and that steam is used to turn a second turbine, making more electricity.
+Newsletter Sign Up
+Please verify you're not a robot by clicking the box.
+Invalid email address. Please re-enter.
+You must select a newsletter to subscribe to.
+Sign Up
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+You agree to receive occasional updates and special offers for The New York Times's products and services.
+Thank you for subscribing.
+An error has occurred. Please try again later.
+You are already subscribed to this email.
+Opt out or contact us anytime
+In the solar thermal variant, heat from the sun is used to preheat the water that the exhaust gases will boil. Proponents say that such a system could get about one-sixth more work out of the natural gas by operating at 70 percent efficiency. Most current  plants operate with efficiencies in the range of 50 percent to 60 percent.
+The World Bank is considering financial help for projects in Egypt and Morocco that would create such a hybrid plant.
+The second application shows that not all solar thermal projects are large and high-tech. An American start-up company, the Solar Turbine Group, founded by engineers at the Massachusetts Institute of Technology, received  $130,000 from the World Bank and is testing two prototypes in Lesotho, in southern Africa, that use simple components, including old car parts.
+Advertisement
+
+Four parabolic dishes, each 10 feet high and 4 feet across, focus heat on a black collector, to boil water. The steam can be run through an old car air-conditioning unit, using the compressor backward, to convert heat energy into mechanical power. (Under a carâs hood, the compressor takes mechanical power from the engine and uses it to squeeze the refrigerant down to a liquid, so it can give off its heat.)
+In the solar turbine design, the mechanical power turns a generator, which can also be scavenged from a car. Or the mechanical power can be used to drive a refrigeration unit.
+In production, the units will sell for $5,000 and produce about 600 watts, said Sam White, a founder of the Solar Turbine Group. The price is about the same as for solar cells, but this system also creates steam for hot water.
+Solar thermal may have another advantage: it may be easier to store energy by storing it as heat. That is important because solar production is strongest in the afternoon but ends long before peak demand ends.  High temperatures persist when the sun is very low in the sky or below the horizon.
+One possibility is to store large amounts of hot water or molten sodium to allow electricity production into the early evening hours. If utilities built solar plants instead of natural gas plants to meet peak demand, the value of the solar output would increase.
+A version of this article appears in print on , on Page C3 of the New York edition with the headline: In the Desert, Harnessing the Power of the Sun by Capturing Heat Instead of Light. Order Reprints | Today's Paper | Subscribe>>

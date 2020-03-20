@@ -1,0 +1,33 @@
+Document<stored,indexed,tokenized,omitNorms,indexOptions=DOCS<UUID:8281ea74-71a1-4d0f-a022-1e8f8e51d25d> stored,indexed,tokenized,termVector,indexOptions=DOCS_AND_FREQS<TEXT:Pittsburgh officials may have 'deflected' attention from lead-contaminated water
+According to a report obtained by the Guardian, health officials in Pittsburgh have downplayed the dangers of lead contamination discovered in local water
+Tue 25 Jul 2017 13.43Â EDT
+Last modified on Wed 20 Sep 2017 14.01Â EDT
+Share via Email
+This article is over 10 months old
+A bath belonging to a Pittsburgh resident. Pittsburgh discovered lead contamination in residentsâ water almost a year ago, after the water utility switched chemicals it used to control metal corrosion. Photograph: Jessica Glenza for the Guardian
+Health officials in a major American city downplayed dangers of lead contamination in water even as officials connected to the Flint, Michigan crisis faced a criminal investigation, according to a report obtained by the Guardian.
+Philadelphia water department faces class action lawsuit over water testing
+Read more
+Residents in Pittsburgh, , were given âmisleadingâ statements by health officials who âdeflectedâ attention from lead-contaminated water , according to the audit.
+The engineer who helped uncover the lead contamination crisis in Flint warned that the scandal there had undermined trust in drinking water and claimed the Pittsburgh report was a warning that similar mistakes could be repeated, including a failure of oversight by officials at the Environmental Protection Agency (EPA).
+âThe road to Flint was paved with this nexus of complacency ,â said Virginia Tech engineer Marc Edwards. â Water utilities were cheating , EPA was looking the other way, and health departments were all too happy to let that occur because they wanted to keep their focus on lead paint,â he said.
+âThis is the one lead source that is government owned, government controlled, and directly affects a product intended for human consumption,â said Edwards.
+Five government officials were charged with involuntary manslaughter after an investigation accused them of not doing enough to warn the public of the spread of Legionella bacteria, part of the water chemistry struggle that resulted in Flintâs lead tainted water. In total, 17 officials in Flint face criminal charges.
+Pittsburgh discovered lead contamination in residentsâ water almost a year ago, after the water utility switched chemicals it used to control metal corrosion. The circumstances mirror those in Flint, though the cityâs water troubles have received significantly less national attention.
+âIâve been an elected official now for almost 12 years, and I have seen a lot,â said Chelsa Wagner, author of the report and the controller of Allegheny County, where Pittsburgh is the seat. âBut I think this is the worst thing Iâve seen.â
+Post-industrial Pittsburgh has remade itself as a tech hub . The city recently received attention for its willingness to experiment with companies such as Uber .
+However, elected officials have faced ongoing criticism after it was revealed that the water bought by residents from the Pittsburgh Water and Sewer Authority (PWSA) had high levels of lead. Like in Flint, plumbing in many homes in Pittsburgh is connected to water mains with old lead lines. Those lines can transfer lead to drinking water, especially when water chemistry is altered.
+The Guardian has seen a draft copy of the controllerâs report. The health department refused to comment on the report before it was made public.
+However, in a written response to the report, the health department said: âThe audit reaches faulty conclusions and is fraught with inaccuracies regarding the data presented.â The health department called the report âmisleading and biased and potentially dangerousâ.
+Wagnerâs review of the county health departmentâs actions came after she discovered her own children, aged five and eight, had been drinking water with high lead levels. PWSA tested her drinking water, and found lead levels of 27 parts per billion, almost twice the legal limit of 15 parts per billion. No level of lead is safe for human consumption.
+âItâs not like youâre covering up just an expenditure â not to minimize that â but youâre covering up something that has [a] lifetime impact on kids health and peopleâs health across the board,â said Wagner, about statements she said mislead the public. âThis is the worst thing I have been privy to firsthand.â
+Wagnerâs report criticized the health department for downplaying the extent of lead exposure in the area; issuing âmisleadingâ statements to the public; and downplaying the extent of lead exposure in the area.
+Flint water crisis prompts schools nationwide to test water for lead
+Read more
+In one instance, the report criticized the health department for muddying the water with statements such as âthere is a lack of scientific data relating to the actual human health impact from lead in drinking water when lead levels are near or belowâ 15 parts per billion.
+Publicly, the health department said âour data shows that we are testing more children and that fewer children have highâ levels of lead, the report said. But the health department later told the auditorâs office that such tests âlikely undercount the problemâ because âtesting is done somewhat randomly and not requiredâ.
+Further, children in Pittsburgh â the worst-affected area â were actually being tested less frequently even though more children countywide received tests. And children living in areas served by the water utility appeared to have a higher rate of lead exposure than those living in surrounding areas, an analysis by auditors found.
+The report also criticized specific cases. The health department argued that âwater has never been found to be the primary source of lead exposureâ for children with lead poisoning. But in one instance, high lead levels were found in water and not followed up. Instead, investigators blamed lead-tainted dust and took no further water samples.
+Sign up for Guardian US Today to receive the dayâs top US stories every morning
+This article was amended on 26 July 2017 to clarify the charges connected with Flintâs water crisis
+Topics>>
